@@ -17,6 +17,13 @@ I am an associate professor and Schmidt Career Advancement Chair in AI, working 
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
+        <li data-target="#carousel" data-slide-to="4"></li>
+        <li data-target="#carousel" data-slide-to="5"></li>
+        <li data-target="#carousel" data-slide-to="6"></li>
+        <li data-target="#carousel" data-slide-to="7"></li>
+        <li data-target="#carousel" data-slide-to="8"></li>
+        <li data-target="#carousel" data-slide-to="9"></li>
+        <li data-target="#carousel" data-slide-to="10"></li>
     
         
     </ol>
@@ -31,6 +38,27 @@ I am an associate professor and Schmidt Career Advancement Chair in AI, working 
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/sliderpic4ws.jpg" alt="Slide 3" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ABC-Deep.png" alt="Slide 4" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SignalPropQuantizationRings.png" alt="Slide 5" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ImplicitBias.png" alt="Slide 6" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BinarizedNeuralNetworks" alt="Slide 7" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ContinualLearning.png" alt="Slide 8" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LossSurface.png" alt="Slide 9" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GDChaos" alt="Slide 10" />
         </div>
      </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
