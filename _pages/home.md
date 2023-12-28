@@ -61,7 +61,7 @@ In 2008 I graduated summa cum laude with a B.Sc. in Electrical Engineering and a
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Technion_logo_2.png" style="width: 310px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EElogo.png" style="width: 400px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LogoNBRL.jpg" style="width: 400px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Technion_logo_2.png" style="width: 500px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EElogo.png" style="width: 600px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LogoNBRL.jpg" style="width: 600px">
 </figure>
