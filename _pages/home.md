@@ -20,13 +20,7 @@ I am an associate professor and Schmidt Career Advancement Chair in AI, working 
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
-        <li data-target="#carousel" data-slide-to="7"></li>
-        <li data-target="#carousel" data-slide-to="8"></li>
-        <li data-target="#carousel" data-slide-to="9"></li>
-        <li data-target="#carousel" data-slide-to="10"></li>
-    
-        
+        <li data-target="#carousel" data-slide-to="6"></li>    
     </ol>
 
     <!-- Items -->
@@ -60,7 +54,7 @@ I am an associate professor and Schmidt Career Advancement Chair in AI, working 
   </a>
 </div>
 
-# Short Bio
+## Short Bio
 
 I did my post-doc (as a [Gruss Lipper](https://eglcf.org/) fellow) working with Prof. [Liam Paninski](http://www.stat.columbia.edu/~liam/) in the [Department of Statistics](https://stat.columbia.edu/) and the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/) at [Columbia University](https://www.columbia.edu/).
 
