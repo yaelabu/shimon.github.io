@@ -7,7 +7,7 @@ permalink: /
 ---
 Welcome to my home page !
 
-I am an associate professor and Schmidt Career Advancement Chair in AI, working in the [Deparment of Electrical & Copmuter Engineering ](https://ece.technion.ac.il/) at the [Technion](https://www.technion.ac.il/en/home-2/), in the area of machine learning. I am especially interested in all aspects of neural networks and deep learning: see [Research](research) for my current research, and [Background](Background) for a more general background. 
+I am an associate professor and Schmidt Career Advancement Chair in AI, working in the [Deparment of Electrical & Copmuter Engineering ](https://ece.technion.ac.il/) at the [Technion](https://www.technion.ac.il/en/home-2/), in the area of machine learning. I am especially interested in all aspects of neural networks and deep learning: see [Research](research) for my current research, and [Background](background) for a more general background. 
 
  **I am looking for highly motivated and excellent MSc/PhD students and Post-Docs with similar research interests to join our team!** [(More Info)]({{ site.url }}{{ site.baseurl }}/team) 
 
