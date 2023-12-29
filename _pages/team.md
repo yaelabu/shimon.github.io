@@ -12,7 +12,7 @@ permalink: /team/
 
 If interested, please send your CV and grade transcript so I can know your background before we meet.
 
-Note: I do not typically have internship positions for undergrads from other institutions, so please do not send such inquiries.
+*Note*: I do not typically have internship positions for undergrads from other institutions, so please do not send such inquiries.
 
 
 Jump to [Current group memebers](#Current-group-members), [alumni](#alumni), [administrative support](#administrative-support).
