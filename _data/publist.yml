@@ -548,7 +548,7 @@
   news1: 
 
 - title: "The Implicit Bias of Gradient Descent on Separable Data"
-  image: TheImplicitBiasofGradientDescent.JPG
+  image: TheImplicitBiasofGradientDescent.png
   description: We show that gradient descent on an unregularized logistic regression problem, for almost all separable datasets, converges to the same direction as the max-margin solution. The result generalizes also to other monotone decreasing loss functions with an infimum at infinity, and we also discuss a multi-class generalizations to the cross entropy loss. Furthermore, we show this convergence is very slow, and only logarithmic in the convergence of the loss itself.
   authors: <b> D. Soudry </b>, E. Hoffer, M. Shpigel Nacson, N. Srebro
   link:
