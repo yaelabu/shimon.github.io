@@ -5,8 +5,7 @@ excerpt: "Daniel Soudry Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
-# Current Research:
-## Algorithmic Bias Control in Deep learning 
+# Research: Algorithmic Bias Control in Deep learning 
 ## (A-B-C-Deep, an ERC Project)
 
 Deep Learning (DL) has reached unparalleled performance in many domains. However, this impressive performance typically comes at the cost of gathering large datasets and training massive models, requiring extended time and prohibitive costs. Significant research efforts are being invested in improving DL training efficiency, i.e., the amount of time, data, and resources required to train these models, by changing the model (e.g., architecture, numerical precision) or the training algorithm (e.g., parallelization). Other modifications aim to address critical issues, such as credibility and over-confidence, which hinder the implementation of DL in the real world. However, such modifications often cause an unexplained degradation in the generalization performance of DL to unseen data. Recent findings suggest that this degradation is caused by changes to the hidden algorithmic bias of the training algorithm and model. This bias selects a specific solution from all solutions which fit the data. After years of trial-and-error, this bias in DL is often at a "sweet spot" which implicitly allows ANNs to learn well, due to unknown key design choices. But performance typically degrades when these choices change. Therefore, understanding and controlling algorithmic bias is the key to unlocking the true potential of deep learning.
