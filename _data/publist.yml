@@ -304,7 +304,7 @@
 
 
 - title: "Implicit Bias in Deep Linear Classification: Initialization Scale vs Training Accuracy"
-  image: ImplicitBiasinDeepPaper.JPG
+  image: ImplicitBiasinDeepPaper.png
   description: We provide a detailed asymptotic study of gradient flow trajectories and their implicit optimization bias when minimizing the exponential loss over "diagonal linear networks". This is the simplest model displaying a transition between "kernel" and non-kernel ("rich" or "active") regimes.
   authors:  E. Moroshko, S. Gunasekar, B. Woodworth, J. D. Lee, N. Srebro, **D. Soudry**
   link:
@@ -420,7 +420,7 @@
   news2:
 
 - title: "Post-training 4-bit quantization of convolution networks for rapid-deployment"
-  image: PostTrainingPaper.JPG
+  image: PostTrainingPaper.png
   description: This paper introduces the first practical 4-bit post training quantization approach.
   authors: R. Banner, Y. Nahshan, **D. Soudry**
   link:
@@ -520,7 +520,7 @@
 
   
 - title: "Scalable Methods for 8-bit Training of Neural Networks"
-  image: ScalableMethodPaper.JPG
+  image: ScalableMethodPaper.png
   description: Our theoretical analysis suggests that most of the training process is robust to substantial precision reduction, and points to only a few specific operations that require higher precision. Armed with this knowledge, we quantize the model parameters, activations and layer gradients to 8-bit, leaving at a higher precision only the final step in the computation of the weight gradients. Additionally, as QNNs require batch-normalization to be trained at high precision, we introduce Range Batch-Normalization (BN) which has significantly higher tolerance to quantization noise and improved computational complexity.
   authors: R. Banner, I. Hubara, E. Hoffer, **D. Soudry**
   link:
