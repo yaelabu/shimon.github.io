@@ -8,7 +8,7 @@ permalink: /background/
 
 # Background
 
-**Motivation**
+## Motivation
 
 Since the beginning of my PhD, I've been interested in a quantitative understanding of intelligence, both artificial and biological — and in the possible relationship between the two. I am mainly focused on neural network models, which are a canonical model for neural computation in the brain and are a central part of many modern artificial intelligence systems. 
 
@@ -20,7 +20,7 @@ At the same time, if we wish to understand biological neural networks we must fi
 
 Over the years my research aimed to uncover the fundamental mathematical principles governing both types of neural networks. Since I started my faculty position in the Technion, I focused on artificial neural networks, in the context of machine learning. 
 
-## Past and current Research interests
+## Past and current research interests
 
 My research so far covered many aspects of neural networks and deep learning.
 See below more information on a few open questions that interested me during my academic life.
