@@ -1,7 +1,7 @@
 ---
 title: "Daniel Soudry - Home"
 layout: homelay
-excerpt: "Daniel Soudry at Technion - Israel Institue of Technology &rarr"
+excerpt: "Daniel Soudry at Technion - Israel Institue of Technology"
 sitemap: false
 permalink: /
 ---
