@@ -24,11 +24,11 @@ Therefore, my current research aims to uncover the fundamental mathematical prin
 
 Talks for the general audience:
 
-- [On the age of deep learning and the revolution in artificial intelligence](https://www.youtube.com/watch?v=MJ1w4ne3F3I)
+- [On the age of deep learning and the revolution in artificial intelligence](https://www.youtube.com/watch?v=MJ1w4ne3F3I) (Hebrew), Rambam Staff meeting, 2019.
   
 Talks that require a machine learning background:
 
-- [On catastrophic forgetting in linear regression and the implicit bias of minima stability](https://www.youtube.com/watch?v=FlXSWTgTAng&t=1319s) (English), SlowDNN, Abu-Dhabi, 2022
+- [On catastrophic forgetting in linear regression and the implicit bias of minima stability](https://www.youtube.com/watch?v=FlXSWTgTAng&t=1319s) (English), SlowDNN, Abu-Dhabi, 2022.
 - [Resource Efficiency and Algorithmic Bias Control in Deep Learning](https://www.youtube.com/watch?v=GYwJzVWkIVU) (Hebrew), MLIS 2022.
 - [Algorithmic Bias Control in Deep Learning](https://www.youtube.com/watch?v=H_jnKJ-dkjo) (English), Hebrew University, CS colloquium, 2020.
 - [Theory and Practice of Deep Neural Networks](https://www.youtube.com/watch?v=Gn5VNZugT_w&list=PLYq7WW565SZgQvXsi0KsaP2wa221-JYzv&t=1564s) (English), Deep Learning and the Brain, 2019.
