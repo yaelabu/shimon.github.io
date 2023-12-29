@@ -3,7 +3,7 @@ title: "Daniel Soudry Lab - Research"
 layout: textlay
 excerpt: "Daniel Soudry Lab -- Research"
 sitemap: false
-permalink: /publicationserc/
+permalink: /research/
 ---
 # Current Research:
 ## Algorithmic Bias Control in Deep learning (A-B-C-Deep, an ERC Project)
