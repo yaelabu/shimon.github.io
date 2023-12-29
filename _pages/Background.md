@@ -34,7 +34,7 @@ See below more information on a few open questions that interested me during my 
 </ul>
 
 <div>
-  <img src="/images/respic/research1.png" style="width: 50%; float: center; margin: 10px">
+  <img src="/images/respic/research1.png" style="width: 30%; float: center; margin: 10px">
 </div>
 
 <h3 > <a href="#Neuroscience Methods">Post-Doc research: Neuroscience Methods</a></h3>
@@ -61,7 +61,7 @@ Modeling and analysis of
 </ul>
 
 
-  <img src="/images/respic/research3.png" style="width: 20%; float: center; margin: 10px;">
+  <img src="/images/respic/research3.png" style="width: 30%; float: center; margin: 10px;">
 
 
 
