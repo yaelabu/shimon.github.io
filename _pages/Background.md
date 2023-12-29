@@ -18,7 +18,7 @@ Despite this impressive progress, artificial neural networks are still [far behi
 
 At the same time, if we wish to understand biological neural networks we must first be able to understand learning in the simplest non-linear artificial neural network – which still remains a mystery.
 
-Over the years my research aimed to uncover the fundamental mathematical principles governing both types of neural networks. Since I started my faculty position in the Technion, I focused on artificial neural networks. 
+Over the years my research aimed to uncover the fundamental mathematical principles governing both types of neural networks. Since I started my faculty position in the Technion, I focused on artificial neural networks, in the context of machine learning. 
 
 ## Past and current Research interests
 
@@ -34,7 +34,7 @@ See below more information on a few open questions that interested me during my 
 </ul>
 
 <div>
-  <img src="/images/respic/research1.png" style="width: 30%; float: center; margin: 10px">
+  <img src="/images/respic/research1.png" style="width: 50%; float: center; margin: 10px">
 </div>
 
 <h3 > <a href="#Neuroscience Methods">Post-Doc research: Neuroscience Methods</a></h3>
@@ -47,7 +47,7 @@ See below more information on a few open questions that interested me during my 
 
 
 <div>
-  <img src="/images/respic/research2.JPG" style="width: 30%; float: center; margin: 10px;">
+  <img src="/images/respic/research2.png" style="width: 30%; float: center; margin: 10px;">
 </div>
 
 <h3 > <a href="#Neuroscience Theory">PhD research: Neuroscience Theory</a></h3>
@@ -61,11 +61,11 @@ Modeling and analysis of
 </ul>
 
 
-  <img src="/images/respic/research3.JPG" style="width: 20%; float: center; margin: 10px;">
+  <img src="/images/respic/research3.png" style="width: 20%; float: center; margin: 10px;">
 
 
 
-<h2 id="Deep Learning">Machine Learning </h2>
+<h2 id="Deep Learning"> Current Research: Deep Learning </h2>
 
 There are several open theoretical questions in deep learning. Answering these theoretical questions will provide design guidelines and help with some important practicals issue (explained below). Two central questions are:
 
@@ -102,7 +102,7 @@ For example, ad can be seen in this ([video](https://youtu.be/OJBFDSynsdU?si=AYk
 Can we find automatic and robust method to find the "optimal" hyper-parameters?
 
 
-<h2 id="Neuroscience Methods">Neuroscience Methods </h2>
+<h2 id="Neuroscience Methods"> Post-doc Research: Neuroscience Methods </h2>
 
 Neuroscience datasets are typically very challenging. They are usually very noise, of limited duration, and are affected by many unobserved latent variables. Analyzing and modeling these datasets becomes more and more challenging over the years, since the number of recorded neurons increases exponentially, similarly to "Moore's law" (Figure from [Stevenson&Kording 2011](https://www.nature.com/articles/nn.2731)):
 
@@ -120,7 +120,7 @@ Can we infer the "spiking" firing patterns of each neuron from the observed movi
 
 
 
-<h2 id="Neuroscience Theory">Neuroscience Theory </h2>
+<h2 id="Neuroscience Theory"> PhD research: Neuroscience Theory </h2>
 
 A central issue in neuroscience is to find the "appropriate" level of modeling: in every level and component of the nervous system we find complex biophysical machinery that affects their functional input output relation. There are many possible levels of modeling:
 
