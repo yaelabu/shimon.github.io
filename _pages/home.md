@@ -35,13 +35,13 @@ I am an associate professor and Schmidt Career Advancement Chair in AI, working 
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/sliderpic4ws.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <a target="_blank" href="https://arxiv.org/abs/1906.00771"> <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SignalPropQuantizationRings.png" alt="Slide 4" />  </a>
+            <a target="_blank" href="https://arxiv.org/abs/1906.00771"> <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SignalPropQuantizationRings.png" alt="How quantization and depth affect neural representations?" />  </a>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ContinualLearning.png" alt="Slide 5" /> 
+            <a target="_blank" href="https://arxiv.org/abs/2306.03534"> <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ContinualLearning.png" alt="How catastrophic forgetting affects linear classification?" /> </a>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GDChaos.png" alt="Slide 6" /> 
+            <a target="_blank" href="https://arxiv.org/abs/2305.13064"> <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GDChaos.png" alt="How gradient descent reaches the Edge of Stability?" /> </a>
         </div>
      </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
