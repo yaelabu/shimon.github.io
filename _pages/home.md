@@ -35,7 +35,7 @@ I am an associate professor and Schmidt Career Advancement Chair in AI, working 
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/sliderpic4ws.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SignalPropQuantizationRings.png" alt="Slide 4" />
+            [<img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SignalPropQuantizationRings.png" alt="Slide 4" />](https://arxiv.org/abs/1906.00771)
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ContinualLearning.png" alt="Slide 5" />
