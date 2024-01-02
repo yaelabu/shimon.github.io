@@ -15,7 +15,7 @@
   education2: <a href="https://scholar.google.com/citations?user=zYd6mEUAAAAJ&hl=en">Homepage</a>
 
 - name: Niv Giladi
-  photo: niv2.jpg
+  photo: niv_orig.jpg
   info: PhD student
   email: giladiniv@cs.technion.ac.il
   number_educ: 2
@@ -31,7 +31,7 @@
   education2: <a href="https://www.linkedin.com/in/mor-shpigel-nacson-096727183/">Homepage</a>
 
 - name: Yaniv Blumenfeld 
-  photo: yaniv1.jpg
+  photo: yaniv2.jpg
   info: PhD student
   email: yanivbl@campus.technion.ac.il
   number_educ: 2
@@ -89,7 +89,7 @@
   education2: <a href="https://www.buzaglo.me/">Homepage</a>
 
 - name: Gil Denekamp
-  photo: dummyface.jpg
+  photo: gilD.png
   info: MSc Student 
   email: gil.denekamp@campus.technion.ac.il
   number_educ: 1
