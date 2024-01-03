@@ -41,7 +41,7 @@ I am an associate professor and Schmidt Career Advancement Chair in AI, working 
             <a target="_blank" href="https://arxiv.org/abs/2306.03534"> <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/continuallearningslider2.jpg" alt="How catastrophic forgetting affects linear classification?" /> </a>
         </div>
         <div class="item">
-            <a target="_blank" href="https://arxiv.org/abs/2305.13064"> <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GDChaosslider2.JPG" alt="How gradient descent reaches the Edge of Stability?" /> </a>
+            <a target="_blank" href="https://arxiv.org/abs/2305.13064"> <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GDChaosslider22.jpg" alt="How gradient descent reaches the Edge of Stability?" /> </a>
         </div>
      </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
