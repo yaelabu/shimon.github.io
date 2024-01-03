@@ -8,6 +8,10 @@
   position: relative;
 }
 
+$('.carousel').carousel({
+  interval: 20000
+})
+
 .carousel-inner {
   position: relative;
   overflow: hidden;
