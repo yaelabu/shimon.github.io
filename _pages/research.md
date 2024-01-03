@@ -1,6 +1,6 @@
 ---
 title: "Daniel Soudry Lab - Research"
-layout: gridlay
+layout: textlay
 excerpt: "Daniel Soudry Lab -- Research"
 sitemap: false
 permalink: /research/
