@@ -26,27 +26,27 @@ I am an associate professor and Schmidt Career Advancement Chair in AI, working 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-             <h4> <a href="https://soudry.github.io/team/">Our Team </a> </h4>
+             <h4> Our Team </a> </h4>
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/groupslider2.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-         <h5> <a href="https://soudry.github.io/team/">Our Team </a> </h5>
+         <h4> <a href="https://soudry.github.io/team/">Daniel Soudry </a> </h4>
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/danielslider2.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-             <h5> <a href="https://arxiv.org/abs/1912.01274">Synthetic data generated from a classifier and used to quantize it </a> </h5>
+             <h4> <a href="https://arxiv.org/abs/1912.01274">Synthetic data generated from a classifier and used to quantize it </a> </h4>
             <a target="_blank" href="https://arxiv.org/abs/1912.01274"> <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider2.jpg" alt="Synthetic data generated from a classifier and used to quantize it" /> </a>
         </div>
         <div class="item">
-           <h5> How quantization and depth affect neural representations? </h5>
+              <h4> <a href="https://arxiv.org/abs/1906.00771">How quantization and depth affect neural representations? </a> </h4>
             <a target="_blank" href="https://arxiv.org/abs/1906.00771"> <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/siganlProcslider2.jpg" alt="How quantization and depth affect neural representations?" /> </a>
         </div>
         <div class="item">
-          <h3> How catastrophic forgetting affects linear classification? </h3>
+           <h4> <a href="https://arxiv.org/abs/2306.03534">How catastrophic forgetting affects linear classification? </a> </h4>
             <a target="_blank" href="https://arxiv.org/abs/2306.03534"> <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/continuallearningslider2.jpg" alt="How catastrophic forgetting affects linear classification?" /> </a>
         </div>
         <div class="item">
-        <h3> How gradient descent reaches the Edge of Stability? </h3>
+          <h4> <a href="https://arxiv.org/abs/2305.13064">How gradient descent reaches the Edge of Stability? </a> </h4>
             <a target="_blank" href="https://arxiv.org/abs/2305.13064"> <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GDChaosslider22.jpg" alt="How gradient descent reaches the Edge of Stability?" /> </a>
         </div>
      </div>
