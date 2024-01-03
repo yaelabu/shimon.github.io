@@ -63,6 +63,10 @@ The sign * indicates equal contribution of the authors.
 
 **This project has received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement No 101039436-ERC-A-B-C-Deep.**
 
+<figure class="fourth">
+ <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.JPG" style="width: 900px">
+</figure>
+
 
 
 
