@@ -35,7 +35,7 @@ I am an associate professor and Schmidt Career Advancement Chair in AI, working 
             <a target="_blank" href="https://arxiv.org/abs/1912.01274"> <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider2.jpg" alt="Synthetic data generated from a classifier and used to quantize it" /> </a>
         </div>
         <div class="item">
-            <a target="_blank" href="https://arxiv.org/abs/1906.00771"> <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/signalProcslider2.jpg" alt="How quantization and depth affect neural representations?" /> </a>
+            <a target="_blank" href="https://arxiv.org/abs/1906.00771"> <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/siganlProcslider2.jpg" alt="How quantization and depth affect neural representations?" /> </a>
         </div>
         <div class="item">
             <a target="_blank" href="https://arxiv.org/abs/2306.03534"> <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/continuallearningslider2.jpg" alt="How catastrophic forgetting affects linear classification?" /> </a>
