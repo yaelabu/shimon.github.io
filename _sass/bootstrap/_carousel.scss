@@ -6,11 +6,9 @@
 // Wrapper for the slide container and indicators
 .carousel {
   position: relative;
+  interval: 10s
 }
 
-$('.carousel').carousel({
-  interval: 20000
-})
 
 .carousel-inner {
   position: relative;
