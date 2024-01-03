@@ -91,7 +91,7 @@ Talks that require a machine learning background:
 - A short public relation [movie](https://www.youtube.com/watch?v=PYCBZl4MdP0) on the collaboration with Intel.
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Technion_logo_2.png" style="width: 400px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EElogo.png" style="width: 400px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LogoNBRL.jpg" style="width: 300px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Technion_logo_2.png" style="width: 300px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EElogo.png" style="width: 300px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LogoNBRL.jpg" style="width: 200px">
 </figure>
