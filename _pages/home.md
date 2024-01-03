@@ -26,9 +26,11 @@ I am an associate professor and Schmidt Career Advancement Chair in AI, working 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
+             <h1> First slide </h1>
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/groupslider2.jpg" alt="Slide 1" />
         </div>
         <div class="item">
+        <h1> Second slide </h1>
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/danielslider2.jpg" alt="Slide 2" />
         </div>
         <div class="item">
