@@ -26,23 +26,27 @@ I am an associate professor and Schmidt Career Advancement Chair in AI, working 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-             <h1> First slide </h1>
+             <h3> Our Team </h3>
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/groupslider2.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-        <h1> Second slide </h1>
+        <h3> Our Team </h3>
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/danielslider2.jpg" alt="Slide 2" />
         </div>
         <div class="item">
+             <h3> Synthetic data generated from a classifier and used to quantize it </h3>
             <a target="_blank" href="https://arxiv.org/abs/1912.01274"> <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider2.jpg" alt="Synthetic data generated from a classifier and used to quantize it" /> </a>
         </div>
         <div class="item">
+           <h3> How quantization and depth affect neural representations? </h3>
             <a target="_blank" href="https://arxiv.org/abs/1906.00771"> <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/siganlProcslider2.jpg" alt="How quantization and depth affect neural representations?" /> </a>
         </div>
         <div class="item">
+          <h3> How catastrophic forgetting affects linear classification? </h3>
             <a target="_blank" href="https://arxiv.org/abs/2306.03534"> <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/continuallearningslider2.jpg" alt="How catastrophic forgetting affects linear classification?" /> </a>
         </div>
         <div class="item">
+        <h3> How gradient descent reaches the Edge of Stability? </h3>
             <a target="_blank" href="https://arxiv.org/abs/2305.13064"> <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GDChaosslider22.jpg" alt="How gradient descent reaches the Edge of Stability?" /> </a>
         </div>
      </div>
