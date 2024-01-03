@@ -30,7 +30,7 @@ I am an associate professor and Schmidt Career Advancement Chair in AI, working 
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/groupslider2.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-         <h4> <a href="https://soudry.github.io/team/">Daniel Soudry </a> </h4>
+         <h4> Daniel Soudry </h4>
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/danielslider2.jpg" alt="Slide 2" />
         </div>
         <div class="item">
