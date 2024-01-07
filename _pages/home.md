@@ -1,13 +1,13 @@
 ---
-title: "Daniel Soudry - Home"
+title: "Shimon Marom - Home"
 layout: homelay
-excerpt: "Daniel Soudry at Technion - Israel Institue of Technology"
+excerpt: "Shimon Marom at Technion - Israel Institue of Technology"
 sitemap: false
 permalink: /
 ---
 Welcome to my home page !
 
-I am an associate professor and Schmidt Career Advancement Chair in AI, working in the [Deparment of Electrical & Copmuter Engineering ](https://ece.technion.ac.il/) at the [Technion](https://www.technion.ac.il/en/home-2/), in the area of machine learning. I am especially interested in all aspects of neural networks and deep learning: see [Research](research) for my current research, and [Background](background) for a more general background. 
+I am a professor (MD, PhD) and Pearl Seiden Chair in Sciences, working in the [Newtork Biology Research Labs](https://nbrl1.net.technion.ac.il/) at the [Technion](https://www.technion.ac.il/en/home-2/).I am especially interested in [Bio-electricity in proteins, cells and networks & Relational physiology](research)
 
  **I am looking for highly motivated and excellent MSc/PhD students and Post-Docs with similar research interests to join our team!** [(More Info)]({{ site.url }}{{ site.baseurl }}/team) 
 
