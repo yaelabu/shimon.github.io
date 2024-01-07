@@ -84,6 +84,8 @@ Talks that require a machine learning background:
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Technion_logo_2.png" style="width: 300px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LogoNBRL.jpg" style="width: 300px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EElogo.png" style="width: 300px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LogoNBRL.jpg" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_md_2.png" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Neemanlogo.png" style="width: 200px">
 </figure>
