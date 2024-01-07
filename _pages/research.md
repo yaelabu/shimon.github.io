@@ -16,12 +16,21 @@ permalink: /research/
 
 #### Multiple states and scaling of rates
 <div>
-<body>
 
-<h1 style="background-color:powderblue;">This is a heading</h1>
-<p style="background-color:tomato;">This is a paragraph.</p>
 
-</body>
+<HEAD><TITLE>Body Background</TITLE></HEAD>
+
+<BODY BGCOLOR="#FF0000">
+
+<H1>This background is RED</H1>
+
+<H1><FONT COLOR=white>The text is white</H1>
+
+<H1><FONT COLOR="#FFFF99">The text is yellow</FONT></H1>
+
+</BODY>
+
+
 </div>
 
 {% assign number_printed = 0 %}
