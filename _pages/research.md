@@ -14,7 +14,16 @@ permalink: /research/
 
 ### Ion channels & excitability
 
-#### multiple states and scaling of rates
+#### Multiple states and scaling of rates
+<div>
+<body>
+
+<h1 style="background-color:powderblue;">This is a heading</h1>
+<p style="background-color:tomato;">This is a paragraph.</p>
+
+</body>
+</div>
+
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
 
