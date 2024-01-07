@@ -18,17 +18,14 @@ permalink: /research/
 <div>
 
 
-<HEAD><TITLE>Body Background</TITLE></HEAD>
 
-<BODY BGCOLOR="#FF0000">
+<body>
 
-<H1>This background is RED</H1>
+<h1 style="background-color:powderblue;">This is a heading</h1>
+<p style="background-color:tomato;">This is a paragraph.</p>
 
-<H1><FONT COLOR=white>The text is white</H1>
+</body>
 
-<H1><FONT COLOR="#FFFF99">The text is yellow</FONT></H1>
-
-</BODY>
 
 
 </div>
