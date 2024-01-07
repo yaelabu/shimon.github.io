@@ -7,7 +7,7 @@ permalink: /
 ---
 Welcome to my home page !
 
-I am a professor (MD, PhD) and Pearl Seiden Chair in Sciences, working in the [Newtork Biology Research Labs](https://nbrl1.net.technion.ac.il/) at the [Technion](https://www.technion.ac.il/en/home-2/).I am especially interested in [Bio-electricity in proteins, cells and networks & Relational physiology](research)
+I am a professor (MD, PhD) and Pearl Seiden Chair in Sciences, working in the [Newtork Biology Research Labs](https://nbrl1.net.technion.ac.il/) at the [Technion](https://www.technion.ac.il/en/home-2/).I am interested in [Electrical phenomena in neural networks, cells and proteins: dynamics and function](research) & [Relational space for dialogue between physiology and dynamic psychology](research)
 
  **I am looking for highly motivated and excellent PhD students and Post-Docs with similar research interests to join our team!** [(More Info)]({{ site.url }}{{ site.baseurl }}/team) 
 
