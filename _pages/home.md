@@ -26,28 +26,20 @@ I am a professor (MD, PhD) and Pearl Seiden Chair in Sciences, working in the [N
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-             <h4> Our Team </h4>
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/groupslider2.jpg" alt="Slide 1" />
+             <h4> Shimon Marom </h4>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_shimon4.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-         <h4> Daniel Soudry </h4>
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/danielslider2.jpg" alt="Slide 2" />
+           <h4> <a href="https://arxiv.org/abs/1912.01274">Synthetic data generated from a classifier and used to quantize it </a> </h4>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_shimon1.jpg" alt="Slide 2" />
         </div>
         <div class="item">
              <h4> <a href="https://arxiv.org/abs/1912.01274">Synthetic data generated from a classifier and used to quantize it </a> </h4>
-            <a target="_blank" href="https://arxiv.org/abs/1912.01274"> <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider2.jpg" alt="Synthetic data generated from a classifier and used to quantize it" /> </a>
+            <a target="_blank" href="https://arxiv.org/abs/1912.01274"> <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_shimon2.jpg" alt="Synthetic data generated from a classifier and used to quantize it" /> </a>
         </div>
         <div class="item">
               <h4> <a href="https://arxiv.org/abs/1906.00771">How quantization and depth affect neural representations? </a> </h4>
-            <a target="_blank" href="https://arxiv.org/abs/1906.00771"> <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/siganlProcslider2.jpg" alt="How quantization and depth affect neural representations?" /> </a>
-        </div>
-        <div class="item">
-           <h4> <a href="https://arxiv.org/abs/2306.03534">How catastrophic forgetting affects linear classification? </a> </h4>
-            <a target="_blank" href="https://arxiv.org/abs/2306.03534"> <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/continuallearningslider2.jpg" alt="How catastrophic forgetting affects linear classification?" /> </a>
-        </div>
-        <div class="item">
-          <h4> <a href="https://arxiv.org/abs/2305.13064">How gradient descent reaches the Edge of Stability? </a> </h4>
-            <a target="_blank" href="https://arxiv.org/abs/2305.13064"> <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GDChaosslider22.jpg" alt="How gradient descent reaches the Edge of Stability?" /> </a>
+            <a target="_blank" href="https://arxiv.org/abs/1906.00771"> <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_shimon3.jpg" alt="How quantization and depth affect neural representations?" /> </a>
         </div>
      </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
