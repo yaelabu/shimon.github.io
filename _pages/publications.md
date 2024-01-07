@@ -1,9 +1,9 @@
 ---
-title: "Daniel Soudry Lab - Publications"
+title: "Daniel Soudry Lab - research"
 layout: gridlay
-excerpt: "Daniel Soudry Lab -- Publications."
+excerpt: "Daniel Soudry Lab -- research."
 sitemap: false
-permalink: /publications/
+permalink: /research/
 ---
 
 
