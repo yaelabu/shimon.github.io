@@ -6,7 +6,7 @@
   education1: <a href="mailto:marom@technion.ac.il">Email</a>
   education2: <a href="https://soudry.github.io/">Homepage</a>
 
-- name: Luarie D. Cohen
+- name: Laurie D. Cohen
   photo: LaurieCohen.jpg
   info: Post Doc (jointly with Columbia University)
   email: lorush@gmail.com
@@ -22,21 +22,21 @@
   education1: <a href="mailto:ron.teichner@ef.technion.ac.il">Email</a>
   education2: <a href="https://www.linkedin.com/in/ron-teichner-689b96129/?originalSubdomain=il">Homepage</a>
   
-- name: Mor Shpigel-Nacson
-  photo: mor1.jpg
-  info: PhD student
-  email: mor.shpigel@campus.technion.ac.il
+- name: Tamar Galateanu
+  photo: TamarGalateanu.jpg
+  info: Lab Engineer
+  email: tamar.ga@technion.ac.il
   number_educ: 2
-  education1: <a href="mailto:mor.shpigel@campus.technion.ac.il">Email</a>
-  education2: <a href="https://www.linkedin.com/in/mor-shpigel-nacson-096727183/">Homepage</a>
+  education1: <a href="mailtotamar.ga@technion.ac.il">Email</a>
+  education2: 
 
-- name: Yaniv Blumenfeld 
-  photo: yaniv2.jpg
-  info: PhD student
-  email: yanivbl@campus.technion.ac.il
+- name: Leonid Oddesky
+  photo: LeonidOddesky.jpg
+  info:  Lab Engineer
+  email: odesskyl@gmail.com
   number_educ: 2
-  education1: <a href="mailto:yanivbl@campus.technion.ac.il">Email</a>
-  education2: <a href="https://www.linkedin.com/in/yaniv-blumenfeld-6103b516b/">Homepage</a>
+  education1: <a href="mailto:odesskyl@gmail.com">Email</a>
+  education2: 
 
 - name: Itay Evron
   photo: itaye1.jpg
