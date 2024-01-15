@@ -1,5 +1,5 @@
 - name: Shimon Marom
-  photo: ShimonMarom.JPG
+  photo: ShimonMarom.jpg
   info: Professor
   email: marom@technion.ac.il
   number_educ: 2
@@ -7,7 +7,7 @@
   education2: <a href="https://soudry.github.io/">Homepage</a>
 
 - name: Luarie D. Cohen
-  photo: LaurieCohen.jpeg
+  photo: LaurieCohen.jpg
   info: Post Doc (jointly with Columbia University)
   email: lorush@gmail.com
   number_educ: 2
