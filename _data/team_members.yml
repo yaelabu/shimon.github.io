@@ -50,13 +50,13 @@
   education1: <a href="mailto:odesskyl@gmail.com">Email</a>
   education2: 
 
-- name: Itay Evron
-  photo: itaye1.jpg
-  info: PhD student
-  email: evron@campus.technion.ac.il
+- name: Yael Abuhatsera
+  photo: YaelAbuhatsera.jpg
+  info: Lab Manager
+  email: yaelabu@technion.ac.il
   number_educ: 2
-  education1: <a href="mailto:evron@campus.technion.ac.il">Email</a>
-  education2: <a href="https://www.evron.me/">Homepage</a>
+  education1: <a href="yaelabu@technion.ac.il">Email</a>
+  education2: 
 
 
 - name: Matan Haroush
