@@ -1,0 +1,37 @@
+- name: Edward Moroshko
+  photo: edward1.jpg
+  duration:  <a href="https://www.linkedin.com/in/edward-moroshko-8b692444/">Homepage</a>
+  info: Post-Doc
+  
+- name: Elad Hoffer 
+  photo: elads1.JPG
+  duration:  <a href="https://eladhoffer.github.io/">Homepage</a>
+  info: PhD 
+  
+
+
+- name: Itay Golan 
+  photo: itayg.JPG
+  duration: <a href="https://www.linkedin.com/in/golanitay/">Homepage</a>
+  info: MSc 
+ 
+
+- name: Brian Chmiel
+  photo: brianc.JPG
+  duration: <a href="https://scholar.google.co.il/citations?user=2U8VtKsAAAAJ&hl=en">Homepage</a>
+  info: PhD (Shared PhD student with <a href="https://bron.cs.technion.ac.il/"> Alex Bronstein</a>)
+  
+
+- name: Itay Hubara 
+  photo: itayh.jpeg
+  duration:  <a href="https://scholar.google.co.il/citations?user=dyYryZYAAAAJ&hl=iw">Homepage</a>
+  info: PhD 
+ 
+- name: Alon Brutzkus 
+  photo: alonb.JPG
+  duration: <a href="https://scholar.google.com/citations?user=m1wmXdgAAAAJ&hl=iw">Homepage</a>
+  info: Post-Doc 
+  
+- name: Liat Ben-Ori 
+  photo: dummyface.jpg
+  info: MSc 
