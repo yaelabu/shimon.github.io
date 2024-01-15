@@ -1,7 +1,7 @@
-- name: Daniel Soudry
-  photo: daniels.jpg
-  info: Associate professor
-  email: daniel.soudry@technion.ac.il
+- name: Shimon Marom
+  photo: ShimonMarom.JPG
+  info: Professor
+  email: marom@technion.ac.il
   number_educ: 2
   education1: <a href="mailto:daniel.soudry@technion.ac.il">Email</a>
   education2: <a href="https://scholar.google.com/citations?user=zYd6mEUAAAAJ&hl=en">Homepage</a>
