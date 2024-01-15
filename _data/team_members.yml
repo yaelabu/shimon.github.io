@@ -59,62 +59,6 @@
   education2: 
 
 
-- name: Matan Haroush
-  photo: matanh1.jpg
-  info: PhD student
-  email: matan.h@campus.technion.ac.il
-  number_educ: 2
-  education1: <a href="mailto:matan.h@campus.technion.ac.il">Email</a>
-  education2: <a href="https://scholar.google.co.il/citations?user=2bPlSXQAAAAJ&hl=en">Homepage</a>
-
-- name: Tzofnat Greenberg-Toledo
-  photo: tzofant1.jpg
-  info:  Shared PhD student with [Shahar kvatinsky ](https://kvatinsky.com/)
-  email: stzgrin@campus.technion.ac.il
-  number_educ: 2
-  education1: <a href="mailto:stzgrin@campus.technion.ac.il">Email</a>
-  education2: <a href="https://www.linkedin.com/in/tzofnat-greenberg-53442a19/?originalSubdomain=il">Homepage</a>
-
-- name: Hagay Michaeli
-  photo: hagaim.jpg
-  info: PhD Student 
-  email: hagaymi@campus.technion.ac.il
-  number_educ: 2
-  education1: <a href="mailto:hagaymi@campus.technion.ac.il">Email</a>
-  education2: <a href="https://www.linkedin.com/in/hagay-michaeli-a3b319152/?originalSubdomain=il">Homepage</a>
-
-
-- name: Edan Kinderman
-  photo: idan1.jpeg
-  info: MSc Student 
-  email: kinderman@campus.technion.ac.il
-  number_educ: 2
-  education1: <a href="mailto:kinderman@campus.technion.ac.il">Email</a>
-  education2: <a href="https://www.linkedin.com/in/edan-kinderman-1320611b8/?originalSubdomain=il">Homepage</a>
-
-- name: Gon Buzaglo
-  photo: Gon.jpg
-  info: MSc Student 
-  email: gonbuzaglo@campus.technion.ac.il
-  number_educ: 2
-  education1: <a href="mailto:gonbuzaglo@campus.technion.ac.il">Email</a>
-  education2: <a href="https://www.buzaglo.me/">Homepage</a>
-
-- name: Gil Denekamp
-  photo: gilD.png
-  info: MSc Student 
-  email: gil.denekamp@campus.technion.ac.il
-  number_educ: 1
-  education1: <a href="mailto:gil.denekamp@campus.technion.ac.il">Email</a>
-  education2: <a href="">Homepage</a>
-
-- name: Itamar Harel
-  photo: itamar.jpg
-  info: MSc Student 
-  email: itamarharel@campus.technion.ac.il
-  number_educ: 1
-  education1: <a href="mailto:itamarharel@campus.technion.ac.il">Email</a>
-  education2: <a href="">Homepage</a>
 
 
 
