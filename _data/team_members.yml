@@ -3,24 +3,24 @@
   info: Professor
   email: marom@technion.ac.il
   number_educ: 2
-  education1: <a href="mailto:daniel.soudry@technion.ac.il">Email</a>
-  education2: <a href="https://scholar.google.com/citations?user=zYd6mEUAAAAJ&hl=en">Homepage</a>
+  education1: <a href="mailto:marom@technion.ac.il">Email</a>
+  education2: <a href="https://soudry.github.io/">Homepage</a>
 
-- name: Chen Zeno
-  photo: chen2.jpeg
-  info: PhD student
+- name: Luarie D. Cohen
+  photo: LaurieCohen.jpeg
+  info: Post Doc (jointly with Coluumbia University)
   email: chenzeno@campus.technion.ac.il
   number_educ: 2
-  education1: <a href="mailto:chenzeno@campus.technion.ac.il">Email</a>
-  education2: <a href="https://scholar.google.com/citations?user=zYd6mEUAAAAJ&hl=en">Homepage</a>
+  education1: <a href="mailto:lorush@gmail.com">Email</a>
+  education2: <a href="https://www.researchgate.net/scientific-contributions/Laurie-D-Cohen-2008327916">Homepage</a>
 
-- name: Niv Giladi
-  photo: niv_orig.jpg
-  info: PhD student
-  email: giladiniv@cs.technion.ac.il
+- name: Ron Teichner
+  photo: RonTeichner.jpg
+  info: Research Fellow (jointly with Prof. Brenner and Prof. Meir)
+  email: ron.teichner@ef.technion.ac.il
   number_educ: 2
-  education1: <a href="mailto:giladiniv@cs.technion.ac.il">Email</a>
-  education2: <a href="https://www.linkedin.com/in/niv-giladi-814447127/">Homepage</a>
+  education1: <a href="mailto:ron.teichner@ef.technion.ac.il">Email</a>
+  education2: <a href=https://www.linkedin.com/in/ron-teichner-689b96129/?originalSubdomain=il">Homepage</a>
   
 - name: Mor Shpigel-Nacson
   photo: mor1.jpg
