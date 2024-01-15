@@ -4,8 +4,7 @@
   email: daniel.soudry@technion.ac.il
   number_educ: 2
   education1: <a href="mailto:daniel.soudry@technion.ac.il">Email</a>
-  education2: <a href="https://scholar.google.com/citations?user=zYd6mEUAAAAJ&hl=en">Homepage</a>
-
+  education2: [HomePage]({{ site.url }}{{ site.baseurl }}/home) 
 - name: Chen Zeno
   photo: chen2.jpeg
   info: PhD student
