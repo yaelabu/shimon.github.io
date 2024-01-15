@@ -21,6 +21,18 @@
   number_educ: 2
   education1: <a href="mailto:ron.teichner@ef.technion.ac.il">Email</a>
   education2: <a href="https://www.linkedin.com/in/ron-teichner-689b96129/?originalSubdomain=il">Homepage</a>
+
+
+  
+- name: Yoav Carasso
+  photo: 
+  info: Research assistant 
+  email: yc@campus.technion.ac.il
+  number_educ: 2
+  education1: <a href="yc@campus.technion.ac.il">Email</a>
+  education2:
+
+
   
 - name: Tamar Galateanu
   photo: TamarGalateanu.jpg
