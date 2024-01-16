@@ -28,6 +28,20 @@
   news1: 
   ERC: 1
 
+- title: “The Joint Effect of Task Similarity and Overparameterization on Catastrophic Forgetting - An Analytical Model”
+  image: dummy.png
+  description:  ""
+  authors: D. Goldfarb *, I. Evron *, N. Weinberger, **D. Soudry**, P. Hand
+  link:
+    url: 
+    display:  ICLR 2024 
+  highlight: 0
+  RefPro: 1
+  JourPap: 0 
+  RefAbs: 0
+  Notes: 0
+  news1: 0
+  ERC: 0
 
 - title: "Explore to Generalize in Zero-Shot RL"
   image: ExploretoGen.JPG
