@@ -77,7 +77,23 @@
   photo: ShlomiIsraelit.JPG
   duration: <a href="https://www.linkedin.com/in/shlomi-israelit-20b5a215/?originalSubdomain=il">Homepage</a>
   info: MD, PhD (2004)
-  
+
+
+- name: Goded Shahaf 
+  photo: ShlomiIsraelit.JPG
+  duration: <a href="https://www.rambam.org.il/en/research_and_innovation/translational-research/research-labs/shahaf_lab/goded_shahaf/">Homepage</a>
+  info: MD, PhD (2002)
+
+- name: Dror Tal
+  photo: dummyface.JPG
+  duration: 
+  info: PhD (2000)
+
+- name: Shlomi Israelit
+  photo: ShlomiIsraelit.JPG
+  duration: <a href="https://www.linkedin.com/in/shlomi-israelit-20b5a215/?originalSubdomain=il">Homepage</a>
+  info: MD, PhD (2004)
+  Amir Toib (MD, MSc, 1996); Meira Frank (PhD, 1999); Dror Tal (PhD, 2000); Goded Shahaf (MD, PhD, 2002); 
   
   
   
