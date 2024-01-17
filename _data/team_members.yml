@@ -32,7 +32,13 @@
   education1: 
   education2: <a href="yc@campus.technion.ac.il">Email</a>
 
-
+- name: Amit Shmidov
+  photo: AmitShmidov.jpg
+  info: MSc student (mainly supervised by <a href="https://www.linkedin.com/in/danny-eytan-b9191182/?originalSubdomain=il">Danny Eytan</a>)
+  email: yc@campus.technion.ac.il
+  number_educ: 2
+  education1: <a href="https://www.linkedin.com/in/amit-shmidov/?originalSubdomain=il"<Homepage</a>
+  education2: <a href="shmidov@campus.technion.ac.il">Email</a>
   
 - name: Tamar Galateanu
   photo: TamarGalateanu.jpg
