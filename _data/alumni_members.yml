@@ -4,7 +4,7 @@
   info: PhD (2023), mainly supervised by  <a href="https://barak.net.technion.ac.il"> Omri Barak</a>
  
 - name: Tal Knafo 
-  photo: Liat2.JPG
+  photo: dummyface.jpg
   duration: 
   info: PhD (2020), jointly supervised with  <a href="https://www.researchgate.net/profile/Amos-Arieli"> Amos Arieli</a> 
   
@@ -47,26 +47,25 @@
 
 - name: Avner Wallach
   photo: AvnerWallach.JPG
-  duration: <a href="http://www.brainsoundlab.com/people/sebastianreinartz/">Homepage</a>
+  duration: <a href="https://scholar.google.ca/citations?user=Sr0R6lUAAAAJ&hl=en">Homepage</a>
   info: PhD (2012), jointly supervised with  <a href="https://scholar.google.com/citations?user=r3NAa9oAAAAJ&hl=en"> Ron Meir</a> 
-  
-Avner Wallach (PhD, 2012 [w\Ron Meir]
-- name: Brian Chmiel
-  photo: brianc.JPG
-  duration: <a href="https://scholar.google.co.il/citations?user=2U8VtKsAAAAJ&hl=en">Homepage</a>
-  info: PhD (Shared PhD student with <a href="https://bron.cs.technion.ac.il/"> Alex Bronstein</a>)
-  
 
-- name: Itay Hubara 
-  photo: itayh.jpeg
-  duration:  <a href="https://scholar.google.co.il/citations?user=dyYryZYAAAAJ&hl=iw">Homepage</a>
-  info: PhD 
- 
-- name: Alon Brutzkus 
-  photo: alonb.JPG
-  duration: <a href="https://scholar.google.com/citations?user=m1wmXdgAAAAJ&hl=iw">Homepage</a>
-  info: Post-Doc 
+
+- name: Avner Wallach
+  photo: AvnerWallach.JPG
+  duration: <a href="https://scholar.google.ca/citations?user=Sr0R6lUAAAAJ&hl=en">Homepage</a>
+  info: PhD (2012), jointly supervised with  <a href="https://scholar.google.com/citations?user=r3NAa9oAAAAJ&hl=en"> Ron Meir</a> 
+
+
+- name: Avner Wallach
+  photo: AvnerWallach.JPG
+  duration: <a href="https://scholar.google.ca/citations?user=Sr0R6lUAAAAJ&hl=en">Homepage</a>
+  info: PhD (2012), jointly supervised with  <a href="https://scholar.google.com/citations?user=r3NAa9oAAAAJ&hl=en"> Ron Meir</a> 
+
+
+- name: Ofri Levy Lamdan
+  photo: OfriLevy.JPG
+  duration: <a href="https://www.linkedin.com/in/ofri-levy-lamdan-34a08857/?originalSubdomain=il">Homepage</a>
+  info: PhD (2012)
   
-- name: Liat Ben-Ori 
-  photo: dummyface.jpg
-  info: MSc 
+  
