@@ -8,14 +8,11 @@ permalink: /team/
 
 # Group Members
 
- I am looking for highly motivated and excellent MSc/PhD students and Post-Docs with similar research interests to join our team.
+ I am looking for highly motivated and excellent PhD students and Post-Docs with similar research interests to join our team.
 
 If interested, please send your CV and grade transcript so I can know your background before we meet.
 
-*Note*: I do not typically have internship positions for undergrads from other institutions, so please do not send such inquiries.
-
-
-Jump to [Current group memebers](#Current-group-members), [alumni](#alumni), [administrative support](#administrative-support).
+Jump to [Current group memebers](#Current-group-members), [alumni](#alumni).
 
 ## Current group members
 {% assign number_printed = 0 %}
@@ -89,7 +86,7 @@ Jump to [Current group memebers](#Current-group-members), [alumni](#alumni), [ad
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Former Role: {{ member.info }}</i>
+  <i>{{ member.duration }} <br>  {{ member.info }}</i>
   <ul style="overflow: hidden">
 
   </ul>
@@ -107,8 +104,3 @@ Jump to [Current group memebers](#Current-group-members), [alumni](#alumni), [ad
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
-
-
-## Administrative Support
-<a href="mailto:yaelabu@technion.ac.il">Yael Abuhatsera </a> is helping us (and other groups) with administration.
