@@ -16,7 +16,8 @@ permalink: /research/
 
 #### Multiple states and scaling of rates
 
-
+<div class="textColor borderColor">
+ 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
 
@@ -54,6 +55,8 @@ permalink: /research/
 {% endif %}
 
 <p> &nbsp; </p>
+
+</div>
 
 ####  critical fluctuations
 {% assign number_printed = 0 %}
