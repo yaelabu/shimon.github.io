@@ -10,11 +10,7 @@ permalink: /research/
 
 **For a full list [see bellow](#full-list-of-publications) or go to [ORCID](https://orcid.org/0000-0002-9138-4833).
 
-<h1 style="background-color:powderblue;">Physiology & Biophysics - representative writings</h1>
-
-<h1 style="background-color:LightBlue;">Physiology & Biophysics - representative writings</h1>
-
-## Physiology & Biophysics - representative writings 
+<h2 style="background-color:powderblue;">Physiology & Biophysics - representative writings</h2>
 
 ### Ion channels & excitability
 
@@ -550,8 +546,7 @@ permalink: /research/
 <p> &nbsp; </p>
 
 
-## Psychology – representative writings
-
+<h2 style="background-color:powderblue;">Psychology – representative writings</h2>
 
 
 {% assign number_printed = 0 %}
