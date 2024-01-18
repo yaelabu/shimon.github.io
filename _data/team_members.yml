@@ -39,6 +39,15 @@
   education1: 
   education2: <a href="mailtotamar.ga@technion.ac.il">Email</a>
 
+- name: Yael Abuhatsera
+  photo: YaelAbuhatsera.JPG
+  info: Lab Manager
+  email: yaelabu@technion.ac.il
+  number_educ: 2
+  education1:
+  education2:  <a href="yaelabu@technion.ac.il">Email</a>
+
+
 - name: Leonid Oddesky
   photo: LeonidOddesky.jpg
   info:  Lab Engineer
@@ -47,13 +56,6 @@
   education1: 
   education2: <a href="mailto:odesskyl@gmail.com">Email</a>
 
-- name: Yael Abuhatsera
-  photo: YaelAbuhatsera.JPG
-  info: Lab Manager
-  email: yaelabu@technion.ac.il
-  number_educ: 2
-  education1:
-  education2:  <a href="yaelabu@technion.ac.il">Email</a>
 
    
 - name: Yoav Carasso
