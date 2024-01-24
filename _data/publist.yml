@@ -1,6 +1,6 @@
 - title: "Towards Cheaper Inference in Deep Networks with Lower Bit-Width Accumulators"
-  image: dummy.png
-  description:  ""
+  image: QuantizedAccumuations.png
+  description:  we present a simple method to enable, for the first time, the usage of 12-bits accumulators in deep learning, with no significant degradation in accuracy. Also, we show that as we decrease the accumulation precision further, using fine-grained gradient approximations can improve the DNN accuracy.
   authors: Y. Blumenfeld, I. Hubara, **D. Soudry**
   link:
     url: https://openreview.net/forum?id=oOwDQl8haC
@@ -14,8 +14,8 @@
   ERC: 0
 
 - title: "The Joint Effect of Task Similarity and Overparameterization on Catastrophic Forgetting - An Analytical Model"
-  image: dummy.png
-  description:  ""
+  image: ContinualOverparameterization.png
+  description:   We examine how task similarity and overparameterization jointly affect forgetting in an analyzable model.
   authors: D. Goldfarb *, I. Evron *, N. Weinberger, **D. Soudry**, P. Hand
   link:
     url: https://arxiv.org/abs/2401.12617
