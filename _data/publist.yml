@@ -1,3 +1,20 @@
+- title: "How Uniform Random Weights Induce Non-uniform Bias: Typical Interpolating Neural Networks Generalize with Narrow Teachers"
+  image: dummy.png
+  description:  
+  authors: G. Buzaglo *, I. Harel *, M. Shpigel Nacson *, A. Brutzkus, N. Srebro, **D. Soudry**
+  link:
+    url: https://openreview.net/forum?id=oOwDQl8haC
+    display:  ICLR 2024 
+  highlight: 0
+  RefPro: 0
+  Preprint: 1
+  JourPap: 0 
+  RefAbs: 0
+  Notes: 0
+  news1: 
+  ERC: 0
+
+
 - title: "Towards Cheaper Inference in Deep Networks with Lower Bit-Width Accumulators"
   image: QuantizedAccumuations.png
   description:  We present a simple method to enable, for the first time, the usage of 12-bits accumulators in deep learning, with no significant degradation in accuracy. Also, we show that as we decrease the accumulation precision further, using fine-grained gradient approximations can improve the DNN accuracy.
