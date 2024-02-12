@@ -2,9 +2,6 @@
   image: dummy.png
   description:  
   authors: G. Buzaglo *, I. Harel *, M. Shpigel Nacson *, A. Brutzkus, N. Srebro, **D. Soudry**
-  link:
-    url: https://openreview.net/forum?id=oOwDQl8haC
-    display:  ICLR 2024 
   highlight: 0
   RefPro: 0
   Preprint: 1
