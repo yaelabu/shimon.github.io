@@ -2,7 +2,7 @@
   image: dummy.png
   description:  
   authors: G. Buzaglo *, I. Harel *, M. Shpigel Nacson *, A. Brutzkus, N. Srebro, **D. Soudry**
-    link:
+  link:
     url: https://arxiv.org/abs/2402.06323
     display:  Arxiv 
   highlight: 0
