@@ -19,20 +19,15 @@
  
 
 
-- title: "Explore to Generalize in Zero-Shot RL"
-  image: ExploretoGen.JPG
-  description: We study zero-shot generalization in reinforcement learning—optimizing a policy on a set of training tasks to perform well on a similar but unseen test task. 
-  authors: E. Zisselman, I. Lavie, **D. Soudry**, A. Tamar 
+- title: "Interaction between duration of activity and time course of recovery from slow inactivation in mammalian brain Na+ channels"
+  image: Interactionbetweenduration.JPG
+  description: Multiple states and scallling of rates  
+  authors: Toib A. , Lyakhov V. , Marom S.
   link:
-    url: https://arxiv.org/abs/2306.03072
-    display:  NeurIPS 2023 
+    url: https://www.scopus.com/record/display.uri?eid=2-s2.0-0032032921&origin=inward&txGid=ae12508faf14ad45a3d6765021589939
+    display:  Journal of Neuroscience
   highlight: 0
-  RefPro: 1
-  JourPap: 0 
-  RefAbs: 0
-  Notes: 0
-  news1:
-  ERC: 1
+  
 
 
 - title: "Gradient Descent Monotonically Decreases the Sharpness of Gradient Flow Solutions in Scalar Networks and Beyond"
