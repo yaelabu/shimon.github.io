@@ -1,7 +1,7 @@
 ---
-title: "Daniel Soudry Lab - research"
+title: "Shimon Marom Lab - research"
 layout: gridlay
-excerpt: "Daniel Soudry Lab -- research."
+excerpt: "Shimon Marom Lab -- research."
 sitemap: false
 permalink: /research/
 ---
