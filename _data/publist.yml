@@ -70,36 +70,25 @@
   highlight: 1
  
 
-- title: "Optimal Fine-Grained N:M sparsity for Activations and Neural Gradients"
-  image: dummy.png
-  description:  " "
-  authors: B. Chmiel, I. Hubara, R. Banner, **D. Soudry**
+- title: "Cellular function given parametric variation in the Hodgkin and Huxley model of excitability"
+  image: Cellularfunctiongiven.JPG
+  description: Parameterization
+  authors: Ori H. , Marder E. , Marom S.
   link:
-    url: https://arxiv.org/abs/2203.10991
-    display:   ICLR 2023 ("notable top 25%" of accepted papers)
-  highlight: 0
-  RefPro: 1
-  JourPap: 0 
-  RefAbs: 0
-  Notes: 0
-  news1: 
-  ERC: 0
+    url: https://www.pnas.org/doi/full/10.1073/pnas.1808552115
+    display:   PNAS
+  highlight: 3
+ 
   
-- title: "Accurate Neural Training with 4-bit Matrix Multiplications at Standard Formats"
-  image: AccurateNeuralPaper.JPG
-  description: Previous works separately showed that accurate 4-bit quantization of the neural gradients needs to (1) be unbiased and (2) have a log scale. However, no previous work aimed to combine both ideas, as we do in this work. Specifically, we examine the importance of having unbiased quantization in quantized neural network training, where to maintain it, and how to combine it with logarithmic. 
-  authors: B. Chmiel, R. Banner, E. Hoffer, H. Ben Yaacov, **D. Soudry**
+- title: "Dynamic clamp constructed phase diagram for the Hodgkin and Huxley model of excitability"
+  image: Dynamicclampconstructed.JPG
+  description: Parameterization 
+  authors: Ori H. , Hazan H. , Marder E. , Marom S.
   link:
-    url: https://openreview.net/forum?id=yTbNYYcopd
-    display: ICLR 2023
-  highlight: 1
-  RefPro: 1
-  JourPap: 0 
-  RefAbs: 0
-  Notes: 0
-  news1: 
-  news2: 
-  ERC: 1
+    url: https://www.pnas.org/doi/full/10.1073/pnas.1916514117
+    display: PNAS
+  highlight: 3
+ 
   
 
 - title: "The Role of Codeword-to-Class Assignments in Error Correcting Codes: An Empirical Study"
