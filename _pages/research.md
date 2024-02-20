@@ -10,7 +10,7 @@ permalink: /research/
 
 *For a full list [see bellow](#full-list-of-publications) or go to [ORCID](https://orcid.org/0000-0002-9138-4833).*
 
-<h2 style="background-color:Gainsboro;">Physiology & Biophysics - representative writings</h2>
+<h2 style="background-color:LightGrey;">Physiology & Biophysics - representative writings</h2>
 
 ### Ion channels & excitability
 
