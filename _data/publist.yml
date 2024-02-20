@@ -60,19 +60,15 @@
   highlight: 1
  
 
-- title: "The Implicit Bias of Minima Stability in Multivariate Shallow ReLU Networks"
-  image: TheImplicitPaper.JPG
-  description: We study the type of solutions to which stochastic gradient descent converges when used to train a single hidden-layer multivariate ReLU network with the quadratic loss. Our results are based on a dynamical stability analysis.
-  authors: M. Shpigel Nacson, R. Mulayoff, G. Ongie, T. Michaeli, **D. Soudry**
+- title: "Entrainment of the intrinsic dynamics of single isolated neurons by natural-like input"
+  image: EntrainmentofIntrinsicDynamics.JPG
+  description: Critical fluctuations
+  authors: Gal A. , Marom S.
   link:
-    url: https://arxiv.org/abs/2306.17499
-    display: ICLR 2023 
+    url: https://www.scopus.com/record/display.uri?eid=2-s2.0-84877104023&origin=inward&txGid=33b28256c471a1e652f8e506ea921ba5
+    display: Journal of Neuroscience
   highlight: 1
-  RefPro: 1
-  JourPap: 0 
-  RefAbs: 0
-  Notes: 0
-  ERC: 1
+ 
 
 - title: "Optimal Fine-Grained N:M sparsity for Activations and Neural Gradients"
   image: dummy.png
