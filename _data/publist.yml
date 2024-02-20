@@ -30,20 +30,15 @@
   
 
 
-- title: "Gradient Descent Monotonically Decreases the Sharpness of Gradient Flow Solutions in Scalar Networks and Beyond"
-  image: GradDesMono.JPG
-  description: We find a quantity that does decrease monotonically throughout GD training - the sharpness attained by the gradient flow solution (GFS).
-  authors: I Kreisler * , M. Shpigel Nacson * ,**D. Soudry**, Yair Carmon
+- title: "Emergence and maintenance of excitability: kinetics over structure"
+  image: emerganceandmaintenance.JPG
+  description: Multiple states and scallling of rates  
+  authors: Marom S.
   link:
-    url: https://arxiv.org/abs/2305.13064
-    display:  ICML 2023 
+    url: https://www.scopus.com/record/display.uri?eid=2-s2.0-84979084036&origin=inward&txGid=277a6d426894e83ea4feeff0126764b4
+    display:  Current Opinion in Neurobiology
   highlight: 0
-  RefPro: 1
-  JourPap: 0   
-  RefAbs: 0
-  Notes: 0
-  news1: 
-  ERC: 1
+  
 
 - title: "Continual Learning in Linear Classification on Separable Data"
   image: ContinunalLearning.JPG
