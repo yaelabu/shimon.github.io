@@ -40,20 +40,15 @@
   highlight: 0
   
 
-- title: "Continual Learning in Linear Classification on Separable Data"
-  image: ContinunalLearning.JPG
-  description: We analyze continual learning on a sequence of separable linear classification tasks with binary labels. We show theoretically that learning with weak regularization reduces to solving a sequential max-margin problem, corresponding to a special case of the Projection Onto Convex Sets (POCS) framework.
-  authors:  I. Evron, E. Moroshko, G. Buzaglo, M. Khriesh, B. Marjieh, N. Srebro, **D. Soudry**
+- title: "Dynamics of Excitability over Extended Timescales in Cultured Cortical Neurons"
+  image: Dynamicsofexcitabilityover.JPG
+  description: Critical fluctuations
+  authors: Gal A. , Eytan D. , Wallach A. , Sandler M. , Schiller J. , Marom S.
   link:
-    url: https://arxiv.org/abs/2306.03534
-    display:  ICML 2023
-  highlight: 0
-  RefPro: 1
-  JourPap: 0 
-  RefAbs: 0
-  Notes: 0
-  news1: 
-  ERC: 1
+    url: https://www.scopus.com/record/display.uri?eid=2-s2.0-78649735564&origin=inward&txGid=3e9c222e3b2718e1106a3bdfdfda9830
+    display:  Journal of Neuroscience
+  highlight: 1
+  
 
 - title: "Alias-Free Convnets: Fractional Shift Invariance via Polynomial Activations"
   image: AliasPaper.JPG
