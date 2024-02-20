@@ -13,7 +13,7 @@ permalink: /research/
 
 **For a full list [see bellow](#full-list-of-publications) or go to [ORCID](https://scholar.google.co.il/citations?user=AEBWEm8AAAAJ&hl=iw&oi=ao](https://orcid.org/0000-0002-9138-4833).
 
-### Physiology & Biophysics - representative writings 
+
 
 #### Ion channels & excitability
 
