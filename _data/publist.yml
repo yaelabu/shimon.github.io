@@ -1,20 +1,20 @@
 - title: "Calcium current in growth balls from islated Helix aspersa neuronal growth cones"
   image: Calciumcurrentingrowth.JPG
   description: Multiple states and scallling of rates
-  authors: Marom Shimon, Dagan Daniel
+  authors: Marom S. , Dagan D.
   link:
     url: https://link.springer.com/content/pdf/10.1007/BF00584656.pdf
     display:  Pflügers Archiv European Journal of Physiology
   highlight: 0
  
 
-- title: "DropCompute: simple and more robust distributed synchronous training via compute variance reduction"
-  image: DropComputePaper.JPG
-  description:  We study a typical scenario in which workers are straggling due to variability in compute time. We find an analytical relation between compute time properties and scalability limitations, caused by such straggling workers.
-  authors: N. Giladi *, S. Gottlieb * , M. Shkolnik, A. Karnieli, R. Banner, E. Hoffer, K. Y. Levy, **D. Soudry**  
+- title: "Modeling state-dependent inactivation of membrane currents"
+  image: Modelingstatedependent.JPG
+  description: Multiple states and scallling of rates 
+  authors: Marom S. , Abbott L.F.
   link:
-    url: https://arxiv.org/abs/2306.10598 
-    display:  NeurIPS 2023 
+    url: https://www.scopus.com/record/display.uri?eid=2-s2.0-0028101232&origin=inward&txGid=de40cb1b00b2e258bb6b506984b5a15f 
+    display:  Biophysical Journal
   highlight: 1
   RefPro: 1
   JourPap: 0 
