@@ -50,20 +50,15 @@
   highlight: 1
   
 
-- title: "Alias-Free Convnets: Fractional Shift Invariance via Polynomial Activations"
-  image: AliasPaper.JPG
-  description: We propose an extended anti-aliasing method that tackles both downsampling and non-linear layers, thus creating truly alias-free, shift-invariant CNNs.
-  authors: H. Michaeli, T. Michaeli, **D. Soudry**
+- title: "Self-organized criticality in single-neuron excitability"
+  image: Selforganizedcriticality.JPG
+  description:  Critical fluctuations
+  authors: Gal A. , Marom S.
   link:
-    url: https://arxiv.org/abs/2303.08085
-    display: CVPR 2023 
+    url: https://arxiv.org/pdf/1210.7414.pdf
+    display: Physical Review E - Statistical, Nonlinear, and Soft Matter Physics
   highlight: 1
-  RefPro: 1
-  JourPap: 0 
-  RefAbs: 0
-  Notes: 0
-  news1:   <a href="https://hmichaeli.github.io/alias_free_convnets/"> See more details about this paper </a>
-  ERC: 1
+ 
 
 - title: "The Implicit Bias of Minima Stability in Multivariate Shallow ReLU Networks"
   image: TheImplicitPaper.JPG
