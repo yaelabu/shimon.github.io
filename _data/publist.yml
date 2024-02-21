@@ -102,20 +102,15 @@
  
   
 
-- title: "How catastrophic can catastrophic forgetting be in linear regression?"
-  image: HowCatastrophicPaper.JPG
-  description: To better understand catastrophic forgetting, we study fitting an overparameterized linear model to a sequence of tasks with different input distributions. We analyze how much the model forgets the true labels of earlier tasks after training on subsequent tasks, obtaining exact expressions and bounds.
-  authors:  I. Evron, E. Moroshko, R. Ward, N. Srebro, **D. Soudry**
+- title: "A biophysical perspective on the resilience of neuronal excitability across timescales"
+  image: Abiophysicalperpectiveonthe.png
+  description: Resilience of neuronal excitability across time scales
+  authors:  Marom S. , Marder E.
   link:
-    url: https://arxiv.org/abs/2205.09588
-    display:  COLT 2022 
-  highlight: 1
-  RefPro: 1
-  JourPap: 0 
-  RefAbs: 0
-  Notes: 0
-  news2:
-  ERC: 0
+    url: https://www.nature.com/articles/s41583-023-00730-9
+    display:  Nature Reviews Neuroscience volume
+  highlight: 3
+  
 
 - title: "Implicit Bias of the Step Size in Linear Diagonal Neural Networks"
   image: dummy.png
