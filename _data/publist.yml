@@ -112,13 +112,13 @@
   highlight: 3
   
 
-- title: "Implicit Bias of the Step Size in Linear Diagonal Neural Networks"
+- title: "Learning in Networks of Cortical Neurons"
   image: dummy.png
   description:  " "
-  authors: M. Shpigel-Nacson, K. Ravichandran, N. Srebro,**D. Soudry**
+  authors: Shahaf G. , Marom S. 
   link:
-    url: https://proceedings.mlr.press/v162/nacson22a/nacson22a.pdf
-    display: ICML 2022
+    url: https://www.jneurosci.org/content/21/22/8782
+    display: Journal of Neuroscience
   highlight: 0
   RefPro: 1
   JourPap: 0 
