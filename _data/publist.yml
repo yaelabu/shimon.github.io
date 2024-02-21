@@ -91,20 +91,15 @@
  
   
 
-- title: "The Role of Codeword-to-Class Assignments in Error Correcting Codes: An Empirical Study"
-  image: TheRoleOf.JPG
-  description: Our paper shows that these assignments play a major role in the performance of ECC. Specifically, we examine similarity-preserving assignments, where similar codewords are assigned to similar classes.
-  authors: I. Evron * , O. Onn * , T. Weiss, H. Azeroual,**D. Soudry**
+- title: "Sodium channel slow inactivation normalizes firing in axons with uneven conductance distributions"
+  image: .JPG
+  description: Axonal resilience
+  authors: Zang Y. , Marder E. , Marom S.
   link:
-    url: https://arxiv.org/pdf/2302.05334
-    display:   AISTAT 2023 
-  highlight: 0
-  RefPro: 1
-  JourPap: 0 
-  RefAbs: 0
-  Notes: 0
-  news1: 
-  ERC: 1
+    url: https://www.sciencedirect.com/science/article/pii/S0960982223003317?via%3Dihub
+    display: Current Biology
+  highlight: 3
+ 
   
 
 - title: "How catastrophic can catastrophic forgetting be in linear regression?"
