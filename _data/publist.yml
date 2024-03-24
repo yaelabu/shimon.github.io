@@ -195,6 +195,15 @@
   highlight: 1
   precarious: 1
 
+- title: "Neural timescales or lack thereof"
+  image: timescales.JPG
+  description: This article aims at making readers, experimentalists and theorists, more aware of the abstractions made by an observer when measuring and reporting behavioral and neural timescales. These abstractions stow away the fact that, above lower boundaries that reflect fairly well understood physical constraints, observed and reported timescales are often not intrinsic to the biological system; rather, in most cases they reflect conditions that are imposed by the observer through the measuring procedure
+  authors: Marom S.
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0301008209001543
+    display: Progress in Neurobiology (2010)
+  highlight: 1
+  timescales: 1
 
     
 - title: "Science, Psychoanalysis and the Brain: Space for Dialogue"
