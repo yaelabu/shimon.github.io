@@ -103,7 +103,6 @@ permalink: /research/
 
 {% if publi.axonal == 1 %}
 
-
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
