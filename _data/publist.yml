@@ -79,7 +79,7 @@
 
 - title: "Cellular function given parametric variation in the Hodgkin and Huxley model of excitability"
   image: Cellularfunction.JPG
-  description:
+  description:A theoretical study, showing that although the full Hodgkin–Huxley model is very sensitive to fluctuations that independently occur in its many parameters, the outcome is in fact determined by a simple combinations of these parameters along two physiological dimensions: structural and kinetic (denoted S and K, respectively)
   authors: Ori H. , Marder E. , Marom S.
   link:
     url: https://www.pnas.org/doi/full/10.1073/pnas.1808552115
