@@ -1,46 +1,51 @@
-- title: "Calcium current in growth balls from islated Helix aspersa neuronal growth cones"
-  image: Calciumcurrentingrowth.JPG
-  description: Multiple states and scallling of rates
-  authors: Marom S. , Dagan D.
+
+- title: "Emergence and maintenance of excitability: kinetics over structure"
+  image: Emergence.jpg
+  description: Alongside studies that extend traditional focus on control-based regulation of structural parameters (channel densities), there is a budding interest in self-organization of kinetic parameters. In this picture, ionic channels are continually forced by activity in-and-out of a pool of states not available for the mechanism of excitability. The process, acting on expressed structure, provides a bed for generation of a spectrum of excitability modes.
+  authors: Marom S.
   link:
-    url: https://link.springer.com/content/pdf/10.1007/BF00584656.pdf
-    display:  Pflügers Archiv European Journal of Physiology
-  highlight: 0
+    url: https://www.scopus.com/record/display.uri?eid=2-s2.0-84979084036&origin=inward&txGid=277a6d426894e83ea4feeff0126764b4
+    display:  Current Opinion in Neurobiology (2016)
+  highlight: 1
   multiple: 1
 
 
- 
-
-- title: "Modeling state-dependent inactivation of membrane currents"
-  image: Modelingstatedependent.JPG
-  description: Multiple states and scallling of rates 
-  authors: Marom S. , Abbott L.F.
-  link:
-    url: https://www.scopus.com/record/display.uri?eid=2-s2.0-0028101232&origin=inward&txGid=de40cb1b00b2e258bb6b506984b5a15f 
-    display:  Biophysical Journal
-  highlight: 0
- 
-
 
 - title: "Interaction between duration of activity and time course of recovery from slow inactivation in mammalian brain Na+ channels"
-  image: Interactionbetweenduration.JPG
+  image: dummy.png
   description: Multiple states and scallling of rates  
   authors: Toib A. , Lyakhov V. , Marom S.
   link:
     url: https://www.jneurosci.org/content/jneuro/18/5/1893.full.pdf
-    display:  Journal of Neuroscience
+    display:  Journal of Neuroscience (1998)
   highlight: 0
+  multiple: 1
   
 
-
-- title: "Emergence and maintenance of excitability: kinetics over structure"
-  image: emerganceandmaintenance.JPG
-  description: Multiple states and scallling of rates  
-  authors: Marom S.
+- title: "State-dependent inactivation of the Kv3 potassium channel"
+  image: dummy.png
+  description: Multiple states and scallling of rates
+  authors: Marom S. , Dagan D.
   link:
-    url: https://www.scopus.com/record/display.uri?eid=2-s2.0-84979084036&origin=inward&txGid=277a6d426894e83ea4feeff0126764b4
-    display:  Current Opinion in Neurobiology
+    url: https://www.scopus.com/record/display.uri?eid=2-s2.0-0028136017&origin=inward&txGid=5e526d4cbbf88a1cd14fdeadc99a02c5
+    display:  Biophysical Journal (1994)
   highlight: 0
+  multiple: 1
+
+
+- title: "Modeling state-dependent inactivation of membrane currents"
+  image: dummy.png
+  description: Multiple states and scallling of rates 
+  authors: Marom S. , Abbott L.F.
+  link:
+    url: https://www.scopus.com/record/display.uri?eid=2-s2.0-0028101232&origin=inward&txGid=de40cb1b00b2e258bb6b506984b5a15f 
+    display:  Biophysical Journal (1994)
+  highlight: 0
+  multiple: 1
+ 
+
+
+
   
 
 - title: "Dynamics of Excitability over Extended Timescales in Cultured Cortical Neurons"
