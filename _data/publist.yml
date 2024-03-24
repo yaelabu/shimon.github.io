@@ -115,9 +115,10 @@
 - title: "A biophysical perspective on the resilience of neuronal excitability across timescales"
   image: biopysicalpercpective.JPG
   description: Neuronal membrane excitability must be resilient to perturbations that can take place over timescales from milliseconds to months (or even years in long-lived animals). This paper ofers a self-regulating ‘automatic’ mechanisms that contribute to neuronal resilience by virtue of the kinetic properties of ion channels themselves
+  authors: Zang Y. , Marder E. , Marom S. 
   link:
     url: https://www.nature.com/articles/s41583-023-00730-9
-    display:  Nature Reviews Neuroscience volume
+    display:  Nature Reviews Neuroscience (2023)
   highlight: 1
   resilience: 1
   
