@@ -227,3 +227,47 @@ permalink: /research/
 
 {% endif %}
 {% endfor %}
+
+## Psychology
+
+### Book
+
+{% for publi in site.data.publist %}
+
+{% if publi.book_psycology == 1 %}
+
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endif %}
+{% endfor %}
+
+### Viewpoint
+
+{% for publi in site.data.publist %}
+
+{% if publi.viewpoint == 1 %}
+
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endif %}
+{% endfor %}
+
+## General readership
+
+
+{% for publi in site.data.publist %}
+
+{% if publi.general == 1 %}
+
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endif %}
+{% endfor %}
+
+
