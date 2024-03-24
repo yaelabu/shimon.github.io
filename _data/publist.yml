@@ -160,11 +160,27 @@
   description: We show that in spontaneously developing large-scale random networks of cortical neurons in vitro the order in which neurons are recruited following each stimulus is a naturally emerging representation primitive that is invariant to significant temporal changes in spike times. With a relatively small number of randomly sampled neurons, the information about stimulus position is fully retrievable from the recruitment order 
   authors: Shahaf G. , Eytan D. , Gal A. , Kermany E. , Lyakhov V. , Zrenner C. , Marom S. 
   link:
-    url: https://www.researchgate.net/publication/5443914_Selective_Adaptation_in_Networks_of_Cortical_Neurons
+    url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000228 
     display: PLOS Computational Biology (2008)
   highlight: 1
   representation: 1
 
+- title: "Dynamics and Effective Topology Underlying Synchronization in Networks of Cortical Neurons"
+  image: DynamicsandEff.JPG
+  description: We characterize the process underlying the timescale of synchronization, its relationship to the effective topology of connectivity within an assembly, and its impact on propagation of activity within and between assemblies. We show that the basic mode of assembly activation, “network spike,” is a threshold-governed phenomenon, following the logistics of neuronal recruitment in an effectively scale-free connected network 
+  authors: Eytan D. , Marom S. 
+  link:
+    url: https://www.jneurosci.org/content/26/33/8465 
+    display: Journal of Neuroscience (2006) 
+  highlight: 1
+  dynamics: 1
 
-
-  
+- title: "Dynamics and Effective Topology Underlying Synchronization in Networks of Cortical Neurons"
+  image: DynamicsandEff.JPG
+  description: We characterize the process underlying the timescale of synchronization, its relationship to the effective topology of connectivity within an assembly, and its impact on propagation of activity within and between assemblies. We show that the basic mode of assembly activation, “network spike,” is a threshold-governed phenomenon, following the logistics of neuronal recruitment in an effectively scale-free connected network 
+  authors: Eytan D. , Marom S. 
+  link:
+    url: https://www.jneurosci.org/content/26/33/8465 
+    display: Journal of Neuroscience (2006) 
+  highlight: 1
+  dynamics: 1
