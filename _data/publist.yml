@@ -175,12 +175,12 @@
   highlight: 1
   dynamics: 1
 
-- title: "Dynamics and Effective Topology Underlying Synchronization in Networks of Cortical Neurons"
-  image: DynamicsandEff.JPG
-  description: We characterize the process underlying the timescale of synchronization, its relationship to the effective topology of connectivity within an assembly, and its impact on propagation of activity within and between assemblies. We show that the basic mode of assembly activation, “network spike,” is a threshold-governed phenomenon, following the logistics of neuronal recruitment in an effectively scale-free connected network 
-  authors: Eytan D. , Marom S. 
+- title: "Dopamine-Induced Dispersion of Correlations Between Action Potentials in Networks of Cortical Neurons"
+  image: dummy.JPG
+  description: neuromodulation 
+  authors: Eytan D. , Minerbi Amir, Ziv N. , Marom S. 
   link:
-    url: https://www.jneurosci.org/content/26/33/8465 
-    display: Journal of Neuroscience (2006) 
-  highlight: 1
-  dynamics: 1
+    url: https://journals.physiology.org/doi/full/10.1152/jn.00202.2004
+    display: Journal of Neurophysiology (2004)
+  highlight: 0
+  neuromodulation: 1
