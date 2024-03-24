@@ -67,23 +67,25 @@
  
 
 - title: "Entrainment of the intrinsic dynamics of single isolated neurons by natural-like input"
-  image: EntrainmentofIntrinsicDynamics.JPG
-  description: Critical fluctuations
+  image: Entrainment.JPG
+  description: Neuronal dynamics is intrinsically unstable, producing activity fluctuations that are essentially scale free. Here we experimentally study single cortical neurons, and show that while these scale-free fluctuations are independent of temporal input statistics, they can be entrained by input variation. Response entrainment was found to be maximal when the input itself possesses natural-like, scale-free statistics
   authors: Gal A. , Marom S.
   link:
     url: https://www.scopus.com/record/display.uri?eid=2-s2.0-84877104023&origin=inward&txGid=33b28256c471a1e652f8e506ea921ba5
     display: Journal of Neuroscience
   highlight: 1
+  critical: 1
  
 
 - title: "Cellular function given parametric variation in the Hodgkin and Huxley model of excitability"
-  image: Cellularfunctiongiven.JPG
-  description: Parameterization
+  image: Cellularfunction.JPG
+  description: A theoretical study, showing that although the full Hodgkin–Huxley model is very sensitive to fluctuations that independently occur in its many parameters, the outcome is in fact determined by a simple combinations of these parameters along two physiological dimensions: structural and kinetic (denoted S and K, respectively). The impacts of parametric fluctuations on the dynamics of the system — seemingly complex in the high-dimensional representation of the Hodgkin–Huxley model — are tractable when examined within the S–K plane
   authors: Ori H. , Marder E. , Marom S.
   link:
     url: https://www.pnas.org/doi/full/10.1073/pnas.1808552115
-    display:   PNAS
-  highlight: 3
+    display:   PNAS (2018)
+  highlight: 1
+  parameterization: 1
  
   
 - title: "Dynamic clamp constructed phase diagram for the Hodgkin and Huxley model of excitability"

@@ -85,6 +85,19 @@ permalink: /research/
 {% endfor %}
 
 
+#####  Parametrization
+
+{% for publi in site.data.publist %}
+
+{% if publi.Parametrization == 1 %}
+
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endif %}
+{% endfor %}
+
 ## Full List of publications
 
 ### Refereed Proceedings
