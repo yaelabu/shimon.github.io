@@ -85,17 +85,18 @@
     url: https://www.pnas.org/doi/full/10.1073/pnas.1808552115
     display:   PNAS (2018)
   highlight: 1
-  parameterization: 1
+  Parametrization: 1
  
   
 - title: "Dynamic clamp constructed phase diagram for the Hodgkin and Huxley model of excitability"
   image: Dynamicclampconstructed.JPG
-  description: Parameterization 
+  description: Parametrization 
   authors: Ori H. , Hazan H. , Marder E. , Marom S.
   link:
     url: https://www.pnas.org/doi/full/10.1073/pnas.1916514117
-    display: PNAS
-  highlight: 3
+    display: PNAS (2020)
+  highlight: 0
+  Parametrization: 1
  
   
 
@@ -105,8 +106,9 @@
   authors: Zang Y. , Marder E. , Marom S.
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0960982223003317?via%3Dihub
-    display: Current Biology
-  highlight: 3
+    display: Current Biology (2023)
+  highlight: 0
+  axonal: 1
  
   
 
