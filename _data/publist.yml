@@ -155,6 +155,15 @@
   highlight: 1
   adaptation: 1
 
+- title: "Order-Based Representation in Random Networks of Cortical Neurons"
+  image: orderbased.JPG
+  description: We show that in spontaneously developing large-scale random networks of cortical neurons in vitro the order in which neurons are recruited following each stimulus is a naturally emerging representation primitive that is invariant to significant temporal changes in spike times. With a relatively small number of randomly sampled neurons, the information about stimulus position is fully retrievable from the recruitment order 
+  authors: Shahaf G. , Eytan D. , Gal A. , Kermany E. , Lyakhov V. , Zrenner C. , Marom S. 
+  link:
+    url: https://www.researchgate.net/publication/5443914_Selective_Adaptation_in_Networks_of_Cortical_Neurons
+    display: PLOS Computational Biology (2008)
+  highlight: 1
+  representation: 1
 
 
 
