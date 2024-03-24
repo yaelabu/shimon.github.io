@@ -123,8 +123,8 @@
   
 
 - title: "Learning in Networks of Cortical Neurons"
-  image: dummy.png
-  description:  " "
+  image: learning.JPG
+  description: The results presented here demonstrate selective learning in a network of real cortical neurons, without the involvement of a neural rewarding entity. The connectivity can be modulated by external focal stimulation in an activity-dependent manner. Most importantly, the networks explore the space of possible responses and stabilize at configurations that remove the stimuli.
   authors: Shahaf G. , Marom S. 
   link:
     url: https://www.jneurosci.org/content/21/22/8782
