@@ -146,8 +146,8 @@
 
 
 - title: "Selective Adaptation in Networks of Cortical Neurons"
-  image: dummy.JPG
-  description: Learning
+  image: selectiveadaptation.JPG
+  description: Using multisite electrical recordings from networks of cortical neurons developing ex vivo, we show that neurons adapt selectively to different stimuli invading the network. We focus on selective adaptation to frequent and rare stimuli; networks were stimulated at two sites with two different stimulus frequencies.
   authors: Eytan D. , Brenner N. , Marom S. 
   link:
     url: https://www.researchgate.net/publication/5443914_Selective_Adaptation_in_Networks_of_Cortical_Neurons
