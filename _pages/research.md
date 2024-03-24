@@ -154,3 +154,76 @@ permalink: /research/
 
 {% endif %}
 {% endfor %}
+
+#### Representation
+
+{% for publi in site.data.publist %}
+
+{% if publi.representation == 1 %}
+
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endif %}
+{% endfor %}
+
+
+#### Dynamics
+
+{% for publi in site.data.publist %}
+
+{% if publi.dynamics == 1 %}
+
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endif %}
+{% endfor %}
+
+
+
+#### Neuromodulation
+
+{% for publi in site.data.publist %}
+
+{% if publi.neuromodulation == 1 %}
+
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endif %}
+{% endfor %}
+
+
+
+
+#### Precarious reverse engineering
+
+{% for publi in site.data.publist %}
+
+{% if publi.precarious == 1 %}
+
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endif %}
+{% endfor %}
+
+
+
+#### Time scales
+
+{% for publi in site.data.publist %}
+
+{% if publi.timescales == 1 %}
+
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endif %}
+{% endfor %}
