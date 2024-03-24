@@ -152,9 +152,6 @@ permalink: /research/
 {% endif %}
 {% endfor %}
 
-#####  representation  
-
-{% for publi in site.data.publist %}
 
 #####  representation  
 {% if publi.resilience == 1 %}
