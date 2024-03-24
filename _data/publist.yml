@@ -63,7 +63,7 @@
     url: https://arxiv.org/pdf/1210.7414.pdf
     display: Physical Review E - Statistical, Nonlinear, and Soft Matter Physics (2021)
   highlight: 1
-   critical: 1
+  critical: 1
  
 
 - title: "Entrainment of the intrinsic dynamics of single isolated neurons by natural-like input"
