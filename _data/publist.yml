@@ -12,8 +12,8 @@
 
 
 - title: "Interaction between duration of activity and time course of recovery from slow inactivation in mammalian brain Na+ channels"
-  image: dummy.png
-  description: Multiple states and scallling of rates  
+  image: Interaction.jpg
+  description: The relationships between activity and availability for activation of voltage gated Na channels were examined using the Xenopus expression system. The main point of this work is that the time constant of recovery from the unavailable (inactivated) pool is related to the duration of previous activation by a power law. These relationships extend from tens of milliseconds to several minutes and are intrinsic to the channel protein
   authors: Toib A. , Lyakhov V. , Marom S.
   link:
     url: https://www.jneurosci.org/content/jneuro/18/5/1893.full.pdf
