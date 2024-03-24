@@ -205,5 +205,16 @@
     url: https://resling.co.il/product/%d7%a4%d7%a1%d7%99%d7%9b%d7%95%d7%90%d7%a0%d7%9c%d7%99%d7%96%d7%94-%d7%95%d7%a0%d7%95%d7%99%d7%a8%d7%95%d6%be%d7%a4%d7%99%d7%96%d7%99%d7%95%d7%9c%d7%95%d7%92%d7%99%d7%94/
     display: Cambridge University Press (20)
   highlight: 1
-  psychology: 1
+  psychology_book: 1
 
+
+    
+- title: "Dialogue Across Chasm: Are Psychology and Neurophysiology Incompatible?"
+  image: 
+  description: 
+  authors: Marom S. 
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S089662732030533X?via%3Dihub
+    display: Neuron (2020)
+  highlight: 0
+  psychology_viewpoint: 1
