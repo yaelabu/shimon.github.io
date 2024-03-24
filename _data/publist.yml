@@ -184,3 +184,26 @@
     display: Journal of Neurophysiology (2004)
   highlight: 0
   neuromodulation: 1
+
+- title: "On the precarious path of reverse neuro-engineering""
+  image: ontheprecariuos.JPG
+  description: In this perspective we demonstrate that application of reverse engineering to the study of the design principle of a functional neuro-system with a known mechanism, may result in a perfectly valid but wrong induction of the system’s design principle. If in the very simple setup we bring here it is difficult to induce a design principle, what are our chances of exposing biological design principles when more realistic conditions are examined?
+  authors: Marom S. , Meir R. , Braun E. , Gal A. , Kermany E. , Eytan D. 
+  link:
+    url: https://www.frontiersin.org/articles/10.3389/neuro.10.005.2009/full
+    display: Frontiers in Computational Neuroscience (2009)
+  highlight: 1
+  precarious: 1
+
+
+    
+- title: "Dopamine-Induced Dispersion of Correlations Between Action Potentials in Networks of Cortical Neurons"
+  image: dummy.JPG
+  description: neuromodulation 
+  authors: Eytan D. , Minerbi Amir, Ziv N. , Marom S. 
+  link:
+    url: https://journals.physiology.org/doi/full/10.1152/jn.00202.2004
+    display: Journal of Neurophysiology (2004)
+  highlight: 0
+  neuromodulation: 1
+
