@@ -234,7 +234,7 @@ permalink: /research/
 
 {% for publi in site.data.publist %}
 
-{% if publi.book_psycology == 1 %}
+{% if publi.psychology_book == 1 %}
 
 
   {{ publi.title }} <br />
@@ -247,7 +247,7 @@ permalink: /research/
 
 {% for publi in site.data.publist %}
 
-{% if publi.viewpoint == 1 %}
+{% if publi.psychology_viewpoint == 1 %}
 
 
   {{ publi.title }} <br />
