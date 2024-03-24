@@ -54,11 +54,11 @@ permalink: /research/
 
 ## Full List of publications
 
-#### Ion channels & excitability
+### Ion channels & excitability
 
 
 
-##### multiple states and scaling of rates
+#### multiple states and scaling of rates
 
 {% for publi in site.data.publist %}
 
@@ -71,7 +71,7 @@ permalink: /research/
 {% endif %}
 {% endfor %}
 
-#####  critical fluctuations
+####  critical fluctuations
 
 {% for publi in site.data.publist %}
 
@@ -86,7 +86,7 @@ permalink: /research/
 
 
 
-#####  Parametrization
+####  Parametrization
 
 {% for publi in site.data.publist %}
 
@@ -99,7 +99,7 @@ permalink: /research/
 {% endif %}
 {% endfor %}
 
-#####  Axonal Resilience
+####  Axonal Resilience
 
 {% for publi in site.data.publist %}
 
@@ -112,12 +112,41 @@ permalink: /research/
 {% endif %}
 {% endfor %}
 
-#####  Resilience of neuronal excitability across time scales
+####  Resilience of neuronal excitability across time scales
 
 
 {% for publi in site.data.publist %}
 
 {% if publi.resilience == 1 %}
+
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endif %}
+{% endfor %}
+
+
+### Neural networks
+
+#### Learning
+
+{% for publi in site.data.publist %}
+
+{% if publi.learning == 1 %}
+
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endif %}
+{% endfor %}
+
+#### Adaptation
+
+{% for publi in site.data.publist %}
+
+{% if publi.adaptation == 1 %}
 
 
   {{ publi.title }} <br />
