@@ -145,6 +145,17 @@
   learning: 1
 
 
+- title: "Selective Adaptation in Networks of Cortical Neurons"
+  image: dummy.JPG
+  description: Learning
+  authors: Eytan D. , Brenner N. , Marom S. 
+  link:
+    url: https://www.researchgate.net/publication/5443914_Selective_Adaptation_in_Networks_of_Cortical_Neurons
+    display: Journal of Neuroscience (2003)
+  highlight: 1
+  adaptation: 1
+
+
 
 
   
