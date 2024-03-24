@@ -197,13 +197,13 @@
 
 
     
-- title: "Dopamine-Induced Dispersion of Correlations Between Action Potentials in Networks of Cortical Neurons"
-  image: dummy.JPG
-  description: neuromodulation 
-  authors: Eytan D. , Minerbi Amir, Ziv N. , Marom S. 
+- title: "Science, Psychoanalysis and the Brain: Space for Dialogue"
+  image: books.JPG
+  description: This monograph is an invitation to a space for dialogue where reflections on neurophysiology are expressed with and guided by depth-psychology in mind; a space where neurophysiology resumes its traditional humbled stance towards matters of the psyche, and where the intellectual autonomy of depth psychology is acknowledged. The author leads the reader through the terrain of methodological errors that have plagued recent reductive approaches, paving the way for a dialogue that is based on an alternative, relational approach. 
+  authors: Marom S. 
   link:
-    url: https://journals.physiology.org/doi/full/10.1152/jn.00202.2004
-    display: Journal of Neurophysiology (2004)
-  highlight: 0
-  neuromodulation: 1
+    url: 
+    display: Cambridge University Press (20)
+  highlight: 1
+  psychology: 1
 
