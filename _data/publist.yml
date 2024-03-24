@@ -6,6 +6,9 @@
     url: https://link.springer.com/content/pdf/10.1007/BF00584656.pdf
     display:  Pflügers Archiv European Journal of Physiology
   highlight: 0
+  multiple: 1
+
+
  
 
 - title: "Modeling state-dependent inactivation of membrane currents"
