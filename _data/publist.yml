@@ -101,13 +101,13 @@
   
 
 - title: "Sodium channel slow inactivation normalizes firing in axons with uneven conductance distributions"
-  image: Soduimchannelslowinactivation.JPG
-  description: Axonal resilience
+  image: soduimchannel.JPG
+  description: Here we model spike propagation in axons with uneven distributions of Na+ and K+ channels. Including slow inactivation of the Na+ channel enhances the reliability of spike propagation and can compensate for uneven channel distributions.
   authors: Zang Y. , Marder E. , Marom S.
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0960982223003317?via%3Dihub
     display: Current Biology (2023)
-  highlight: 0
+  highlight: 1
   axonal: 1
  
   
