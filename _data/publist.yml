@@ -18,7 +18,7 @@
   link:
     url: https://www.jneurosci.org/content/jneuro/18/5/1893.full.pdf
     display:  Journal of Neuroscience (1998)
-  highlight: 0
+  highlight: 1
   multiple: 1
   
 
@@ -56,7 +56,7 @@
   
 
 - title: "Self-organized criticality in single-neuron excitability"
-  image: self-organized.JPG
+  image: self-organized.jpg
   description:  Here, we suggest that neuronal response fluctuations reflect a process that positions the neuron near a transition point that separates excitable and unexcitable phases. This view is supported by the dynamical properties of the system as observed in experiments on isolated cultured cortical neurons, and by a theoretical mapping between the constructs of self-organized criticality and membrane excitability.
   authors: Gal A. , Marom S.
   link:
@@ -67,7 +67,7 @@
  
 
 - title: "Entrainment of the intrinsic dynamics of single isolated neurons by natural-like input"
-  image: Entrainment.JPG
+  image: entrainment.jpg
   description: Neuronal dynamics is intrinsically unstable, producing activity fluctuations that are essentially scale free. Here we experimentally study single cortical neurons, and show that while these scale-free fluctuations are independent of temporal input statistics, they can be entrained by input variation. Response entrainment was found to be maximal when the input itself possesses natural-like, scale-free statistics
   authors: Gal A. , Marom S.
   link:
@@ -78,7 +78,7 @@
  
 
 - title: "Cellular function given parametric variation in the Hodgkin and Huxley model of excitability"
-  image: Cellularfunction.JPG
+  image: CellularFunction.jpg
   description: A theoretical study, showing that although the full Hodgkin–Huxley model is very sensitive to fluctuations that independently occur in its many parameters, the outcome is in fact determined by a simple combinations of these parameters along two physiological dimensions - structural and kinetic (denoted S and K, respectively)
   authors: Ori H. , Marder E. , Marom S.
   link:
@@ -89,7 +89,7 @@
  
   
 - title: "Dynamic clamp constructed phase diagram for the Hodgkin and Huxley model of excitability"
-  image: Dynamicclampconstructed.JPG
+  image: dummy.png
   description: Parametrization 
   authors: Ori H. , Hazan H. , Marder E. , Marom S.
   link:
@@ -101,7 +101,7 @@
   
 
 - title: "Sodium channel slow inactivation normalizes firing in axons with uneven conductance distributions"
-  image: soduimchannel.JPG
+  image: soduimchannel.jpg
   description: Here we model spike propagation in axons with uneven distributions of Na+ and K+ channels. Including slow inactivation of the Na+ channel enhances the reliability of spike propagation and can compensate for uneven channel distributions.
   authors: Zang Y. , Marder E. , Marom S.
   link:
@@ -113,7 +113,7 @@
   
 
 - title: "A biophysical perspective on the resilience of neuronal excitability across timescales"
-  image: biopysicalpercpective.JPG
+  image: biopysicalperpective.jpg
   description: Neuronal membrane excitability must be resilient to perturbations that can take place over timescales from milliseconds to months (or even years in long-lived animals). This paper ofers a self-regulating ‘automatic’ mechanisms that contribute to neuronal resilience by virtue of the kinetic properties of ion channels themselves
   authors: Zang Y. , Marder E. , Marom S. 
   link:
@@ -124,7 +124,7 @@
   
 
 - title: "Learning in Networks of Cortical Neurons"
-  image: learning.JPG
+  image: learning.jpg
   description: The results presented here demonstrate selective learning in a network of real cortical neurons, without the involvement of a neural rewarding entity. The connectivity can be modulated by external focal stimulation in an activity-dependent manner. Most importantly, the networks explore the space of possible responses and stabilize at configurations that remove the stimuli.
   authors: Shahaf G. , Marom S. 
   link:
@@ -146,7 +146,7 @@
 
 
 - title: "Selective Adaptation in Networks of Cortical Neurons"
-  image: selectiveadaptation.JPG
+  image: selectiveadaptation.jpg
   description: Using multisite electrical recordings from networks of cortical neurons developing ex vivo, we show that neurons adapt selectively to different stimuli invading the network. We focus on selective adaptation to frequent and rare stimuli; networks were stimulated at two sites with two different stimulus frequencies.
   authors: Eytan D. , Brenner N. , Marom S. 
   link:
@@ -156,7 +156,7 @@
   adaptation: 1
 
 - title: "Order-Based Representation in Random Networks of Cortical Neurons"
-  image: orderbased.JPG
+  image: orderbased.png
   description: We show that in spontaneously developing large-scale random networks of cortical neurons in vitro the order in which neurons are recruited following each stimulus is a naturally emerging representation primitive that is invariant to significant temporal changes in spike times. With a relatively small number of randomly sampled neurons, the information about stimulus position is fully retrievable from the recruitment order 
   authors: Shahaf G. , Eytan D. , Gal A. , Kermany E. , Lyakhov V. , Zrenner C. , Marom S. 
   link:
@@ -166,7 +166,7 @@
   representation: 1
 
 - title: "Dynamics and Effective Topology Underlying Synchronization in Networks of Cortical Neurons"
-  image: DynamicsandEff.JPG
+  image: DynamicsandEff.jpg
   description: We characterize the process underlying the timescale of synchronization, its relationship to the effective topology of connectivity within an assembly, and its impact on propagation of activity within and between assemblies. We show that the basic mode of assembly activation, “network spike,” is a threshold-governed phenomenon, following the logistics of neuronal recruitment in an effectively scale-free connected network 
   authors: Eytan D. , Marom S. 
   link:
@@ -176,7 +176,7 @@
   dynamics: 1
 
 - title: "Dopamine-Induced Dispersion of Correlations Between Action Potentials in Networks of Cortical Neurons"
-  image: dummy.JPG
+  image: dummy.png
   description: neuromodulation 
   authors: Eytan D. , Minerbi Amir, Ziv N. , Marom S. 
   link:
@@ -186,7 +186,7 @@
   neuromodulation: 1
 
 - title: "On the precarious path of reverse neuro-engineering"
-  image: ontheprecariuos.JPG
+  image: ontheprecarious.jpg
   description: In this perspective we demonstrate that application of reverse engineering to the study of the design principle of a functional neuro-system with a known mechanism, may result in a perfectly valid but wrong induction of the system’s design principle. If in the very simple setup we bring here it is difficult to induce a design principle, what are our chances of exposing biological design principles when more realistic conditions are examined?
   authors: Marom S. , Meir R. , Braun E. , Gal A. , Kermany E. , Eytan D. 
   link:
@@ -196,7 +196,7 @@
   precarious: 1
 
 - title: "Neural timescales or lack thereof"
-  image: timescales.JPG
+  image: timescales.jpg
   description: This article aims at making readers, experimentalists and theorists, more aware of the abstractions made by an observer when measuring and reporting behavioral and neural timescales. These abstractions stow away the fact that, above lower boundaries that reflect fairly well understood physical constraints, observed and reported timescales are often not intrinsic to the biological system; rather, in most cases they reflect conditions that are imposed by the observer through the measuring procedure
   authors: Marom S.
   link:
@@ -219,7 +219,7 @@
 
    
 - title: "Relational Dynamics in Perception: Impacts on trial-to-trial variation"
-  image: relationaldynamics.JPG
+  image: relationaldynamics.jpg
   description: We show that trial-to-trial variability in sensory detection of a weak visual stimulus is dramatically diminished when rather than presenting a fixed stimulus contrast, fluctuations in a subject’s judgment are matched by fluctuations in stimulus contrast. This attenuation of fluctuations does not involve a change in the subject’s psychometric function. 
   authors: Marom S. , Wallach A.  
   link:
