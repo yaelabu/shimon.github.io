@@ -10,17 +10,17 @@
   photo: LaurieCohen.jpg
   info: Post Doc (jointly with Columbia University)
   email: lorush@gmail.com
-  number_educ: 2
-  education1: <a href="mailto:lorush@gmail.com">Email</a>
-  education2: <a href="https://www.researchgate.net/scientific-contributions/Laurie-D-Cohen-2008327916">Homepage</a>
+  number_educ: 1
+  education1: <a href="https://www.researchgate.net/scientific-contributions/Laurie-D-Cohen-2008327916">Homepage</a>
+  education2: 
 
 - name: Ron Teichner
   photo: RonTeichner.jpg
   info: Research Fellow (jointly with <a href="https://biophysics.net.technion.ac.il/">Naama Brenner</a> and <a href="https://scholar.google.com/citations?user=r3NAa9oAAAAJ&hl=en">Ron Meir</a> )
   email: ron.teichner@ef.technion.ac.il
-  number_educ: 2
-  education1: <a href="mailto:ron.teichner@ef.technion.ac.il">Email</a>
-  education2: <a href="https://www.linkedin.com/in/ron-teichner-689b96129/?originalSubdomain=il">Homepage</a>
+  number_educ: 1
+  education1: <a href="https://www.linkedin.com/in/ron-teichner-689b96129/?originalSubdomain=il">Homepage</a>
+  education2: 
 
 
 - name: Amit Shmidov
