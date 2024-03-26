@@ -1,9 +1,9 @@
 ---
-title: "Daniel Soudry - Team"
+title: "Shimon Marom - Students"
 layout: gridlay
-excerpt: "Soudry Lab: Team members"
+excerpt: "Shimon Marom: Team members"
 sitemap: false
-permalink: /team/
+permalink: /students/
 ---
 
 # Group Members
