@@ -31,7 +31,8 @@ Jump to [Current group memebers](#Current-group-members), [alumni](#Alumni).
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 2 %}
-  <li> {{ member.education2 | markdownify}} </li>
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
   {% endif %}
 
   {% if member.number_educ == 3 %}
