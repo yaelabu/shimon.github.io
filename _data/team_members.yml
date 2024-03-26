@@ -28,16 +28,16 @@
   info: MSc student (mainly supervised by <a href="https://www.linkedin.com/in/danny-eytan-b9191182/?originalSubdomain=il">Danny Eytan</a>)
   email: yc@campus.technion.ac.il
   number_educ: 1
-  education1: 
-  education2: <a href="https://www.linkedin.com/in/amit-shmidov/?originalSubdomain=il">Homepage</a>
+  education1:  <a href="https://www.linkedin.com/in/amit-shmidov/?originalSubdomain=il">Homepage</a>
+  education2:
   
 - name: Tamar Galateanu
   photo: TamarGalateanu.JPG
   info: Lab Engineer
   email: tamar.ga@technion.ac.il
   number_educ: 1
-  education1: 
-  education2: <a href="mailtotamar.ga@technion.ac.il">Email</a>
+  education1: <a href="mailtotamar.ga@technion.ac.il">Email</a>
+  education2: 
 
   
 - name: Leonid Oddesky
@@ -45,16 +45,16 @@
   info:  Lab Engineer
   email: odesskyl@gmail.com
   number_educ: 1
-  education1: 
-  education2: <a href="mailto:odesskyl@gmail.com">Email</a>
+  education1: <a href="mailto:odesskyl@gmail.com">Email</a>
+  education2: 
 
 - name: Yael Abuhatsera
   photo: YaelAbuhatsera.JPG
   info: Lab Manager
   email: yaelabu@technion.ac.il
   number_educ: 1
-  education1:
-  education2:  <a href="yaelabu@technion.ac.il">Email</a>
+  education1:<a href="yaelabu@technion.ac.il">Email</a>
+  education2:  
 
 
 
