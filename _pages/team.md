@@ -3,7 +3,7 @@ title: "Shimon Marom - Students"
 layout: gridlay
 excerpt: "Shimon Marom: Team members"
 sitemap: false
-permalink: /students/
+permalink: /team/
 ---
 
 # Group Members
