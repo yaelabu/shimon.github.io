@@ -13,7 +13,7 @@
 
 - title: "Interaction between duration of activity and time course of recovery from slow inactivation in mammalian brain Na+ channels"
   image: Interaction.jpg
-  description: The relationships between activity and availability for activation of voltage gated Na channels were examined using the Xenopus expression system. The main point of this work is that the time constant of recovery from the unavailable (inactivated) pool is related to the duration of previous activation by a power law. These relationships extend from tens of milliseconds to several minutes and are intrinsic to the channel protein
+  description: The relationships between activity and availability for activation of voltage gated Na channels were examined using the Xenopus expression system. The main point of this work is that the time constant of recovery from the unavailable (inactivated) pool is related to the duration of previous activation by a power law. These relationships extend from tens of milliseconds to several minutes and are intrinsic to the channel protein.
   authors: Toib A. , Lyakhov V. , Marom S.
   link:
     url: https://www.jneurosci.org/content/jneuro/18/5/1893.full.pdf
@@ -68,7 +68,7 @@
 
 - title: "Entrainment of the intrinsic dynamics of single isolated neurons by natural-like input"
   image: entrainment.jpg
-  description: Neuronal dynamics is intrinsically unstable, producing activity fluctuations that are essentially scale free. Here we experimentally study single cortical neurons, and show that while these scale-free fluctuations are independent of temporal input statistics, they can be entrained by input variation. Response entrainment was found to be maximal when the input itself possesses natural-like, scale-free statistics
+  description: Neuronal dynamics is intrinsically unstable, producing activity fluctuations that are essentially scale free. Here we experimentally study single cortical neurons, and show that while these scale-free fluctuations are independent of temporal input statistics, they can be entrained by input variation. Response entrainment was found to be maximal when the input itself possesses natural-like, scale-free statistics.
   authors: Gal A. , Marom S.
   link:
     url: https://www.scopus.com/record/display.uri?eid=2-s2.0-84877104023&origin=inward&txGid=33b28256c471a1e652f8e506ea921ba5
@@ -79,7 +79,7 @@
 
 - title: "Cellular function given parametric variation in the Hodgkin and Huxley model of excitability"
   image: CellularFunction.jpg
-  description: A theoretical study, showing that although the full Hodgkin–Huxley model is very sensitive to fluctuations that independently occur in its many parameters, the outcome is in fact determined by a simple combinations of these parameters along two physiological dimensions - structural and kinetic (denoted S and K, respectively)
+  description: A theoretical study, showing that although the full Hodgkin–Huxley model is very sensitive to fluctuations that independently occur in its many parameters, the outcome is in fact determined by a simple combinations of these parameters along two physiological dimensions - structural and kinetic (denoted S and K, respectively).). The impacts of parametric fluctuations on the dynamics of the system — seemingly complex in the high-dimensional representation of the Hodgkin–Huxley model — are tractable when examined within the S–K plane.
   authors: Ori H. , Marder E. , Marom S.
   link:
     url: https://www.pnas.org/doi/full/10.1073/pnas.1808552115
@@ -157,7 +157,7 @@
 
 - title: "Order-Based Representation in Random Networks of Cortical Neurons"
   image: orderbased.png
-  description: We show that in spontaneously developing large-scale random networks of cortical neurons in vitro the order in which neurons are recruited following each stimulus is a naturally emerging representation primitive that is invariant to significant temporal changes in spike times. With a relatively small number of randomly sampled neurons, the information about stimulus position is fully retrievable from the recruitment order 
+  description: We show that in spontaneously developing large-scale random networks of cortical neurons in vitro the order in which neurons are recruited following each stimulus is a naturally emerging representation primitive that is invariant to significant temporal changes in spike times. With a relatively small number of randomly sampled neurons, the information about stimulus position is fully retrievable from the recruitment order. 
   authors: Shahaf G. , Eytan D. , Gal A. , Kermany E. , Lyakhov V. , Zrenner C. , Marom S. 
   link:
     url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000228 
@@ -167,7 +167,7 @@
 
 - title: "Dynamics and Effective Topology Underlying Synchronization in Networks of Cortical Neurons"
   image: DynamicsandEff.jpg
-  description: We characterize the process underlying the timescale of synchronization, its relationship to the effective topology of connectivity within an assembly, and its impact on propagation of activity within and between assemblies. We show that the basic mode of assembly activation, “network spike,” is a threshold-governed phenomenon, following the logistics of neuronal recruitment in an effectively scale-free connected network 
+  description: We characterize the process underlying the timescale of synchronization, its relationship to the effective topology of connectivity within an assembly, and its impact on propagation of activity within and between assemblies. We show that the basic mode of assembly activation, “network spike,” is a threshold-governed phenomenon, following the logistics of neuronal recruitment in an effectively scale-free connected network. 
   authors: Eytan D. , Marom S. 
   link:
     url: https://www.jneurosci.org/content/26/33/8465 
@@ -197,7 +197,7 @@
 
 - title: "Neural timescales or lack thereof"
   image: timescales.jpg
-  description: This article aims at making readers, experimentalists and theorists, more aware of the abstractions made by an observer when measuring and reporting behavioral and neural timescales. These abstractions stow away the fact that, above lower boundaries that reflect fairly well understood physical constraints, observed and reported timescales are often not intrinsic to the biological system; rather, in most cases they reflect conditions that are imposed by the observer through the measuring procedure
+  description: This article aims at making readers, experimentalists and theorists, more aware of the abstractions made by an observer when measuring and reporting behavioral and neural timescales. These abstractions stow away the fact that, above lower boundaries that reflect fairly well understood physical constraints, observed and reported timescales are often not intrinsic to the biological system; rather, in most cases they reflect conditions that are imposed by the observer through the measuring procedure.
   authors: Marom S.
   link:
     url: https://www.sciencedirect.com/science/article/abs/pii/S0301008209001543
@@ -238,3 +238,19 @@
     display: Neuron (2020)
   highlight: 0
   psychology_viewpoint: 1
+
+- title: "Lost Knowledge"
+  image: lostknowledge.png
+  description: Past commitment to a common language within disciplines, came at the price of creating knowledge silos. Today, ‘interdisciplinarity’ — arguably a common language — is pushed down into undergraduate education so that we are encouraging science students at their earliest stages of education to be conversant across the myriad fields that are now important for many research projects. But at what cost?
+  authors: Marom S. 
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0960982222000434?via%3Dihub
+    display: Currect Biology (2022)
+  highlight: 1
+  general_readership: 1
+
+
+
+
+
+
