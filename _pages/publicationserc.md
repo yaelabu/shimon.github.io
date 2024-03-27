@@ -1,9 +1,9 @@
 ---
-title: "Daniel Soudry Lab - ERC"
+title: "Shimon Marom - Links"
 layout: textlay
-excerpt: "Daniel Soudry Lab -- ERC"
+excerpt: "Shimon Marom -- Links"
 sitemap: false
-permalink: /publicationserc/
+permalink: /Links/
 ---
 # The ERC A-B-C-Deep Project
 
