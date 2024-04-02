@@ -9,7 +9,7 @@ permalink: /research/
 
 # Publications  
 
-*For a full list [see bellow](#full-list-of-publications) or go to [ORCID](https://orcid.org/0000-0002-9138-4833).
+*For a full list go to [ORCID](https://orcid.org/0000-0002-9138-4833). For Selected publication on [Ion channels & excitability](### Ion channels & excitability), [Psychology](### Psychology), or see bellow.
 
 ## Representative Publications
 
@@ -52,7 +52,7 @@ permalink: /research/
 
 <p> &nbsp; </p>
 
-## Full List of publications
+## Selected publications
 
 ### Ion channels & excitability
 
