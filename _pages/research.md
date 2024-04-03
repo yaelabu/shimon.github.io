@@ -226,8 +226,9 @@ permalink: /research/
 {% endif %}
 {% endfor %}
 
-### Psychology ###
 {: #my-nice-text}
+### Psychology ###
+
 
 ### Book
 
