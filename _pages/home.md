@@ -65,8 +65,8 @@ Lectures in Hebrew
 
 - [Body & Mind Research - Impossible, and it's totally fine and even scientific](https://technionmail-my.sharepoint.com/personal/marom_technion_ac_il/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmarom%5Ftechnion%5Fac%5Fil%2FDocuments%2FWebSiteShared%2FBioDiscourse%5F2023%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview) (Hebrew), Biology Teachers Forum, 2023
 
+- [](https://technionmail-my.sharepoint.com/personal/marom_technion_ac_il/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmarom%5Ftechnion%5Fac%5Fil%2FDocuments%2FWebSiteShared%2FISFN%5F2021%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopiedShareExpControl%2Eview) (English), ISFN annual meeting, 2021.
 
-- [On the age of deep learning and the revolution in artificial intelligence](https://www.youtube.com/watch?v=MJ1w4ne3F3I) (Hebrew), Rambam Staff meeting, 2019.
   
 Talks that require a machine learning background:
 
