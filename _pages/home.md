@@ -70,11 +70,8 @@ Talks for the general audience:
  - How Are Nerve Cells And Artificial Intelligence Similar? Paper for kids in [Hebrew](https://kids.frontiersin.org/he/articles/10.3389/frym.2022.767989-he) and [English](https://kids.frontiersin.org/articles/10.3389/frym.2022.767989), Frontiers for Young Minds, 2022 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Technion_logo_2.png" style="width: 300px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LogoNBRL.jpg" style="width: 300px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EElogo.png" style="width: 300px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_md_2.png" style="width: 200px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Neemanlogo.png" style="width: 250px">
 </figure>
 
 <figure class="fourth">
