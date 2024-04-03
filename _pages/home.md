@@ -5,6 +5,9 @@ excerpt: "Shimon Marom at Technion - Israel Institue of Technology"
 sitemap: false
 permalink: /
 ---
+שמעון מרום
+شمعون ماروم
+
 Welcome to my home page !
 
 I am a professor (MD, PhD) and Pearl Seiden Chair in Sciences, working in the [Newtork Biology Research Labs](https://nbrl1.net.technion.ac.il/) at the [Technion](https://www.technion.ac.il/en/home-2/).I am interested in [electrical phenomena in neural networks, cells and proteins: dynamics and function](research) and [relational space for dialogue between physiology and dynamic psychology](research)
