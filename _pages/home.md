@@ -54,17 +54,17 @@ I am a professor (MD, PhD) and Pearl Seiden Chair in Sciences, working in the [N
 
 ## Short Bio
 
-I did my post-doc (as a [Gruss Lipper](https://eglcf.org/) fellow) working with Prof. [Liam Paninski](http://www.stat.columbia.edu/~liam/) in the [Department of Statistics](https://stat.columbia.edu/) and the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/) at [Columbia University](https://www.columbia.edu/).
+I am (b. 1958) a Professor of Physiology, and the Pearl Seiden Academic Chair of Sciences at the [Technion–Israel Institute of Technology](https://www.technion.ac.il/en/home-2).After completion of my training (MD, PhD) at the Technion, I was a Fulbright and Fishbach Fellow at [Brandeis University](https://www.brandeis.edu/) (Mass., USA) and returned to the Technion (Alon Fellow) where I serve as a Faculty to date. My theoretical and experimental analyses focus on the self-organization of bio-electrical phenomena in proteins, cells and networks embedded in responsive and adaptive environments, implementing closed-loop experimental designs and natural input statistics. Over the years I headed the Physiology & Biophysics department, the [Rothschild Scholars Technion Program for Excellence](https://admissions.technion.ac.il/en/the-rothschild-scholars-program/), dean of medicine, and the Technion Executive Vice President for Academic Affairs. As of 2023, I am the Director of the [Samuel Neaman institute](https://www.neaman.org.il/EN/Home). 
 
-I did my Ph.D. (2008-2013, direct track) in the Network Biology Research Laboratory in the Department of Electrical & Computer Engineering at the Technion, Israel Institute of Technology, under the guidance of Prof. [Ron Meir](https://ronmeir.net.technion.ac.il/).
-
-In 2008 I graduated summa cum laude with a B.Sc. in Electrical Engineering and a B.Sc. in Physics, after studying in the Technion since 2004.
-
-[My Complete CV](https://www.dropbox.com/scl/fi/meeb90dlqii5fdbpdz3uy/CV-Daniel-Soudry.pdf?rlkey=c8jtugouhozqxdx1gmcv24tiy&dl=0)
 
 ## Recorded Talks
 
 Talks for the general audience:
+
+Lectures in Hebrew
+
+- [Body & Mind Research - Impossible, and it's totally fine and even scientific](https://technionmail-my.sharepoint.com/personal/marom_technion_ac_il/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmarom%5Ftechnion%5Fac%5Fil%2FDocuments%2FWebSiteShared%2FBioDiscourse%5F2023%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview) (Hebrew), Biology Teachers Forum, 2023
+
 
 - [On the age of deep learning and the revolution in artificial intelligence](https://www.youtube.com/watch?v=MJ1w4ne3F3I) (Hebrew), Rambam Staff meeting, 2019.
   
