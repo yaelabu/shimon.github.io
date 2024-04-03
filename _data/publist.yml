@@ -42,6 +42,27 @@
     display:  Biophysical Journal (1994)
   highlight: 0
   multiple: 1
+
+ 
+- title: "Self-organized criticality in single-neuron excitability"
+  image: self-organized.jpg
+  description:  Here, we suggest that neuronal response fluctuations reflect a process that positions the neuron near a transition point that separates excitable and unexcitable phases. This view is supported by the dynamical properties of the system as observed in experiments on isolated cultured cortical neurons, and by a theoretical mapping between the constructs of self-organized criticality and membrane excitability.
+  authors: Gal A. , Marom S.
+  link:
+    url: https://arxiv.org/pdf/1210.7414.pdf
+    display: Physical Review E - Statistical, Nonlinear, and Soft Matter Physics (2013)
+  highlight: 1
+  critical: 1
+ 
+- title: "Entrainment of the intrinsic dynamics of single isolated neurons by natural-like input"
+  image: entrainment.jpg
+  description: Neuronal dynamics is intrinsically unstable, producing activity fluctuations that are essentially scale free. Here we experimentally study single cortical neurons, and show that while these scale-free fluctuations are independent of temporal input statistics, they can be entrained by input variation. Response entrainment was found to be maximal when the input itself possesses natural-like, scale-free statistics.
+  authors: Gal A. , Marom S.
+  link:
+    url: https://www.scopus.com/record/display.uri?eid=2-s2.0-84877104023&origin=inward&txGid=33b28256c471a1e652f8e506ea921ba5
+    display: Journal of Neuroscience (2013)
+  highlight: 1
+  critical: 1
  
 
 - title: "Dynamics of Excitability over Extended Timescales in Cultured Cortical Neurons"
@@ -54,28 +75,16 @@
   highlight: 0
   critical: 1
   
-
-- title: "Self-organized criticality in single-neuron excitability"
-  image: self-organized.jpg
-  description:  Here, we suggest that neuronal response fluctuations reflect a process that positions the neuron near a transition point that separates excitable and unexcitable phases. This view is supported by the dynamical properties of the system as observed in experiments on isolated cultured cortical neurons, and by a theoretical mapping between the constructs of self-organized criticality and membrane excitability.
-  authors: Gal A. , Marom S.
-  link:
-    url: https://arxiv.org/pdf/1210.7414.pdf
-    display: Physical Review E - Statistical, Nonlinear, and Soft Matter Physics (2013)
-  highlight: 1
-  critical: 1
  
-
-- title: "Entrainment of the intrinsic dynamics of single isolated neurons by natural-like input"
-  image: entrainment.jpg
-  description: Neuronal dynamics is intrinsically unstable, producing activity fluctuations that are essentially scale free. Here we experimentally study single cortical neurons, and show that while these scale-free fluctuations are independent of temporal input statistics, they can be entrained by input variation. Response entrainment was found to be maximal when the input itself possesses natural-like, scale-free statistics.
-  authors: Gal A. , Marom S.
+- title: "Dynamic clamp constructed phase diagram for the Hodgkin and Huxley model of excitability"
+  image: dummy.png
+  description: Parametrization 
+  authors: Ori H. , Hazan H. , Marder E. , Marom S.
   link:
-    url: https://www.scopus.com/record/display.uri?eid=2-s2.0-84877104023&origin=inward&txGid=33b28256c471a1e652f8e506ea921ba5
-    display: Journal of Neuroscience (2013)
-  highlight: 1
-  critical: 1
- 
+    url: https://www.pnas.org/doi/full/10.1073/pnas.1916514117
+    display: PNAS (2020)
+  highlight: 0
+  Parametrization: 1
 
 - title: "Cellular function given parametric variation in the Hodgkin and Huxley model of excitability"
   image: CellularFunction.jpg
@@ -87,16 +96,7 @@
   highlight: 1
   Parametrization: 1
  
-  
-- title: "Dynamic clamp constructed phase diagram for the Hodgkin and Huxley model of excitability"
-  image: dummy.png
-  description: Parametrization 
-  authors: Ori H. , Hazan H. , Marder E. , Marom S.
-  link:
-    url: https://www.pnas.org/doi/full/10.1073/pnas.1916514117
-    display: PNAS (2020)
-  highlight: 0
-  Parametrization: 1
+ 
  
   
 
@@ -121,7 +121,17 @@
     display:  Nature Reviews Neuroscience (2023)
   highlight: 1
   resilience: 1
-  
+
+
+- title: "Development, learning and memory in large random networks of cortical neurons: lessons beyond anatomy"
+  image: dummy.JPG
+  description: Learning
+  authors: Shahaf G. , Marom S. 
+  link:
+    url: https://www.cambridge.org/core/journals/quarterly-reviews-of-biophysics/article/abs/development-learning-and-memory-in-large-random-networks-of-cortical-neurons-lessons-beyond-anatomy/910AE0F1F27FD2695764AD93D55E752B
+    display: Quarterly Reviews of Biophysics (2002)
+  highlight: 0
+  learning: 1  
 
 - title: "Learning in Networks of Cortical Neurons"
   image: learning.jpg
@@ -133,16 +143,6 @@
   highlight: 1
   learning: 1
 
-
-- title: "Development, learning and memory in large random networks of cortical neurons: lessons beyond anatomy"
-  image: dummy.JPG
-  description: Learning
-  authors: Shahaf G. , Marom S. 
-  link:
-    url: https://www.cambridge.org/core/journals/quarterly-reviews-of-biophysics/article/abs/development-learning-and-memory-in-large-random-networks-of-cortical-neurons-lessons-beyond-anatomy/910AE0F1F27FD2695764AD93D55E752B
-    display: Quarterly Reviews of Biophysics (2002)
-  highlight: 0
-  learning: 1
 
 
 - title: "Selective Adaptation in Networks of Cortical Neurons"
@@ -215,7 +215,7 @@
     display: Cambridge University Press (2015)
   highlight: 1
   psychology_book: 1
-  news: see litreture review (in HEB) [here](https://www.hebpsy.net/articles.asp?id=3713)
+  news1: see litreture review (in HEB) [here](https://www.hebpsy.net/articles.asp?id=3713)
 
    
 - title: "Relational Dynamics in Perception: Impacts on trial-to-trial variation"
