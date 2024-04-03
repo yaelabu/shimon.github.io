@@ -226,7 +226,7 @@ permalink: /research/
 {% endif %}
 {% endfor %}
 
-## Psychology
+### Psychology
 
 ### Book
 
