@@ -63,7 +63,7 @@ Talks for the general audience:
 
 - [Body & Mind Research - Impossible, and it's totally fine and even scientific](https://technionmail-my.sharepoint.com/personal/marom_technion_ac_il/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmarom%5Ftechnion%5Fac%5Fil%2FDocuments%2FWebSiteShared%2FBioDiscourse%5F2023%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview) (Hebrew), Biology Teachers Forum, 2023
 
-- [](https://technionmail-my.sharepoint.com/personal/marom_technion_ac_il/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmarom%5Ftechnion%5Fac%5Fil%2FDocuments%2FWebSiteShared%2FISFN%5F2021%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopiedShareExpControl%2Eview) (English), ISFN annual meeting, 2021.
+- [Science, Psychoanalysis and the Brain: Space for Dialogue](https://technionmail-my.sharepoint.com/personal/marom_technion_ac_il/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmarom%5Ftechnion%5Fac%5Fil%2FDocuments%2FWebSiteShared%2FISFN%5F2021%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopiedShareExpControl%2Eview) (English), ISFN annual meeting, 2021.
 
 **In the Press**
 
