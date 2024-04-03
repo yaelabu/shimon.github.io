@@ -54,9 +54,7 @@ permalink: /research/
 
 ## Selected publications
 
-### Ion channels & excitability
-
-
+### Ion channels and excitability  {#ion-channels-and-excitability} 
 
 #### multiple states and scaling of rates
 
