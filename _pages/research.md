@@ -52,9 +52,9 @@ permalink: /research/
 
 <p> &nbsp; </p>
 
-## Selected publications
+## Selected publications ##
 
-### Ion channels and excitability  {#ion-channels-and-excitability} 
+### Ion channels and excitability ### 
 
 #### multiple states and scaling of rates
 
@@ -226,7 +226,7 @@ permalink: /research/
 {% endif %}
 {% endfor %}
 
-### Psychology
+### Psychology ###
 
 ### Book
 
