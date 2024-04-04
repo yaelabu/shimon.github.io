@@ -13,7 +13,7 @@ permalink: /Links/
 - Biological Implementation (cortical neurons in-vitro) of a [Braitenberg Vehicle](https://data.mendeley.com/datasets/bcrvd4mdsf/1) (Marom et al, 2009)
 - Mathematica® lecture notes (CDF, computational document format) on [membrane excitability](https://data.mendeley.com/datasets/2kn5ymgwvg/1)
 - Mathematica® Notebook for reconstructing a 2D [S-K phase diagram](https://data.mendeley.com/datasets/sc3t4jvv78/1) of membrane excitability (Ori et al, 2008)
-- Recorded lecture on "Neurophysiology and depth-psychology: a possible [impossible dialogue](), 29th ISFN Annual Meeting
+- Recorded lecture on "Neurophysiology and depth-psychology: a possible [impossible dialogue](https://technionmail-my.sharepoint.com/personal/marom_technion_ac_il/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmarom%5Ftechnion%5Fac%5Fil%2FDocuments%2FWebSiteShared%2FISFN%5F2021%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopiedShareExpControl%2Eview), 29th ISFN Annual Meeting
   
   
 ## Algorithmic Bias Control in Deep learning 1
