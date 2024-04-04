@@ -31,7 +31,7 @@ I am a professor (MD, PhD) and Pearl Seiden Chair in Sciences, working in the [N
     <div class="carousel-inner" markdown="0">
         <div class="item active">
              <h4> Shimon Marom </h4>
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_shimon4.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SKplane.jpg" alt="Slide 1" />
         </div>
         <div class="item">
            <h4> <a href="https://arxiv.org/abs/1912.01274">Synthetic data generated from a classifier and used to quantize it </a> </h4>
