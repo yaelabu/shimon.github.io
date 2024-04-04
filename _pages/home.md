@@ -30,7 +30,7 @@ I am a professor (MD, PhD) and Pearl Seiden Chair in Sciences, working in the [N
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-             <h4> Shimon Marom </h4>
+             <h4> <a href= "https://www.sciencedirect.com/science/article/pii/S0960982222000434?via%3Dihub">Lost Knowledge</a> </h4>
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SKplane.jpg" alt="Slide 1" />
         </div>
         <div class="item">
