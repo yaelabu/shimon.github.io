@@ -3,7 +3,7 @@ title: "Shimon Marom - Links"
 layout: textlay
 excerpt: "Shimon Marom -- Links"
 sitemap: false
-permalink: /research/
+permalink: /links/
 ---
 # Research: Algorithmic Bias Control in Deep learning 
 ## (A-B-C-Deep, an ERC Project)
