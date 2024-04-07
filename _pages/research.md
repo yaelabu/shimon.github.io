@@ -54,11 +54,11 @@ permalink: /research/
 
 ## Selected publications 
 
-{: #ion}
-<h3 style="background-color:Snow;">Ion channels and excitability</h3>
-### Ion channels and excitability 
+{: #Physiology}
+<h3 style="background-color:AliceBlue;">Physiology & Biophysics </h3>
+#### Ion channels and excitability 
 
-##### multiple states and scaling of rates
+###### multiple states and scaling of rates
 
 {% for publi in site.data.publist %}
 
@@ -71,7 +71,7 @@ permalink: /research/
 {% endif %}
 {% endfor %}
 
-#####  critical fluctuations
+######  critical fluctuations
 
 {% for publi in site.data.publist %}
 
@@ -86,7 +86,7 @@ permalink: /research/
 
 
 
-#####  Parametrization
+######  Parametrization
 
 {% for publi in site.data.publist %}
 
@@ -99,7 +99,7 @@ permalink: /research/
 {% endif %}
 {% endfor %}
 
-#####  Axonal Resilience
+######  Axonal Resilience
 
 {% for publi in site.data.publist %}
 
@@ -112,7 +112,7 @@ permalink: /research/
 {% endif %}
 {% endfor %}
 
-#####  Resilience of neuronal excitability across time scales
+######  Resilience of neuronal excitability across time scales
 
 
 {% for publi in site.data.publist %}
@@ -127,7 +127,7 @@ permalink: /research/
 {% endfor %}
 
 
-### Neural networks
+#### Neural networks
 
 ##### Learning
 
@@ -142,7 +142,7 @@ permalink: /research/
 {% endif %}
 {% endfor %}
 
-##### Adaptation
+###### Adaptation
 
 {% for publi in site.data.publist %}
 
@@ -155,7 +155,7 @@ permalink: /research/
 {% endif %}
 {% endfor %}
 
-##### Representation
+###### Representation
 
 {% for publi in site.data.publist %}
 
@@ -169,7 +169,7 @@ permalink: /research/
 {% endfor %}
 
 
-##### Dynamics
+###### Dynamics
 
 {% for publi in site.data.publist %}
 
@@ -184,7 +184,7 @@ permalink: /research/
 
 
 
-##### Neuromodulation
+###### Neuromodulation
 
 {% for publi in site.data.publist %}
 
@@ -200,7 +200,7 @@ permalink: /research/
 
 
 
-##### Precarious reverse engineering
+###### Precarious reverse engineering
 
 {% for publi in site.data.publist %}
 
@@ -215,7 +215,7 @@ permalink: /research/
 
 
 
-##### Time scales
+#### Time scales
 
 {% for publi in site.data.publist %}
 
@@ -228,9 +228,8 @@ permalink: /research/
 {% endif %}
 {% endfor %}
 
+
 {: #psychology}
-
-
 
 ### Psychology ###
 
