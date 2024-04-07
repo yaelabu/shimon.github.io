@@ -37,7 +37,7 @@ I am a professor (MD, PhD) and Pearl Seiden Chair in Sciences, working in the [N
         </div>
         <div class="item">
              <h4> <a href="https://www.pnas.org/doi/full/10.1073/pnas.1916514117">Dynamic clamp constructed phase diagram for the Hodgkin and Huxley model of excitability  </a> </h4>
-             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_shimon2.jpg" alt="Slider3 " /> 
+             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_shimon2.jpg" alt="Slider 3" /> 
         </div>
         <div class="item">
               <h4> <a href="https://www.nature.com/articles/s41583-023-00730-9">A biophysical perspective on the resilience of neuronal excitability across timescales </a> </h4>
