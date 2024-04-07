@@ -9,7 +9,7 @@ permalink: /research/
 
 # Publications  
 
-*For a full list go to [ORCID](https://orcid.org/0000-0002-9138-4833). For Selected publication on [Ion channels & excitability](###ion-channels-&-excitability), [Psychology](#my-nice-text), or see bellow.
+*For a full list go to [ORCID](https://orcid.org/0000-0002-9138-4833). For Selected publication on [Ion channels & excitability](#ion), [Psychology](#Psychology), or [General Readership](#general) see bellow.
 
 ## Representative Publications
 
@@ -54,6 +54,7 @@ permalink: /research/
 
 ## Selected publications 
 
+{: #ion}
 <h3 style="background-color:Snow;">Ion channels and excitability</h3>
 ### Ion channels and excitability 
 
@@ -227,7 +228,7 @@ permalink: /research/
 {% endif %}
 {% endfor %}
 
-{: #my-nice-text}
+{: #psychology}
 
 
 
@@ -274,6 +275,8 @@ permalink: /research/
 {% endif %}
 {% endfor %}
 
+
+{: #general}
 ### General readership
 
 
