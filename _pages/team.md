@@ -14,6 +14,7 @@ If interested, please send your CV and grade transcript so I can know your backg
 
 Jump to [Current group memebers](#current-group-members), [alumni](#alumni).
 
+{: #current-group-members}
 ## Current group members
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
@@ -77,7 +78,7 @@ Jump to [Current group memebers](#current-group-members), [alumni](#alumni).
 </div>
 {% endif %}
 
-
+{: #alumni}
 ## Alumni
 
 {% assign number_printed = 0 %}
