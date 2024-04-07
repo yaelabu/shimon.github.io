@@ -255,10 +255,32 @@
   description: 
   authors: Braun E., Marom S. 
   link:
-    url: 
+    url: https://www.sciencedirect.com/science/article/pii/S1369848615000606
     display: Studies in History and Philosophy of Science -Part C (2015)
   highlight: 0
+  general_readership: 1 
+
+  
+- title: "How are nerve cells and artificial inteligence similar?"
+  image: dummy.png
+  description: 
+  authors: Marom S. 
+  link:
+    url: https://kids.frontiersin.org/articles/10.3389/frym.2022.767989
+    display: Frontiers for Young Minds (2022)
+  highlight: 0
   general_readership: 1  
+
+- title: "הפיתוי הנצחי"
+  image: dummy.png
+  description: 
+  authors: Marom S. 
+  link:
+    url: https://archive.md/7GE5H#selection-1917.0-1917.5
+    display: Odessey Magazine (2010)
+  highlight: 0
+  general_readership: 1  
+  
 
 
 
