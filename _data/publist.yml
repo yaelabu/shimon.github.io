@@ -276,11 +276,19 @@
   authors: Marom S. 
   link:
     url: https://archive.md/7GE5H#selection-1917.0-1917.5
-    display: Odessey Magazine (2010)
+    display:  Odysseus magazine (2010) (in Heb)
   highlight: 0
   general_readership: 1  
   
-
+- title: "Can brain research solve the human puzzle?"
+  image: dummy.png
+  description: 
+  authors: Marom S. 
+  link:
+    url: https://hayadan.com/brain-reaserch-and-human-quiz-0503101
+    display: Summary of Odysseus magazine article (2010)
+  highlight: 0
+  general_readership: 1  
 
 
 
