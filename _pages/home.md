@@ -29,7 +29,7 @@ I am a professor (MD, PhD) and Pearl Seiden Chair in Sciences, working in the [N
     <div class="carousel-inner" markdown="0">
         <div class="item active">
              <h4> <a href= "https://www.pnas.org/doi/10.1073/pnas.1808552115">Cellular function given parametric variation in the Hodgkin and Huxley model of excitability</a> </h4>
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SKplane485.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SKplane485.jpg" alt="Slide 1" />
         </div>
         <div class="item">
            <h4> <a href="https://www.sciencedirect.com/science/article/pii/S0960982222000434?via%3Dihub">Lost Knowledge </a> </h4>
@@ -41,7 +41,7 @@ I am a professor (MD, PhD) and Pearl Seiden Chair in Sciences, working in the [N
         </div>
         <div class="item">
               <h4> <a href="https://www.nature.com/articles/s41583-023-00730-9">A biophysical perspective on the resilience of neuronal excitability across timescales </a> </h4>
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/axonfootprints485.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/axonfootprints485.jpg" alt="Slide 4" />
         </div>
      </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
