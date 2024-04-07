@@ -247,7 +247,7 @@ permalink: /research/
 {% endfor %}
 
 
-### Perception
+#### Perception
 
 {% for publi in site.data.publist %}
 
@@ -260,7 +260,7 @@ permalink: /research/
 {% endif %}
 {% endfor %}
 
-### Viewpoint
+#### Viewpoint
 
 {% for publi in site.data.publist %}
 
