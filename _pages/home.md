@@ -31,7 +31,7 @@ I am a professor (MD, PhD) and Pearl Seiden Chair in Sciences, working in the [N
     <div class="carousel-inner" markdown="0">
         <div class="item active">
              <h4> <a href= "https://www.pnas.org/doi/10.1073/pnas.1808552115">Cellular function given parametric variation in the Hodgkin and Huxley model of excitability</a> </h4>
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SKplane.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SK.png" alt="Slide 1" />
         </div>
         <div class="item">
            <h4> <a href="https://www.sciencedirect.com/science/article/pii/S0960982222000434?via%3Dihub">Lost Knowledge </a> </h4>
@@ -39,11 +39,11 @@ I am a professor (MD, PhD) and Pearl Seiden Chair in Sciences, working in the [N
         </div>
         <div class="item">
              <h4> <a href="https://www.pnas.org/doi/full/10.1073/pnas.1916514117">Dynamic clamp constructed phase diagram for the Hodgkin and Huxley model of excitability  </a> </h4>
-            <a target="_blank" href="https://arxiv.org/abs/1912.01274"> <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_shimon2.jpg" alt="Synthetic data generated from a classifier and used to quantize it" /> </a>
+             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_shimon2.jpg" alt="Slider3 " /> 
         </div>
         <div class="item">
               <h4> <a href="https://www.nature.com/articles/s41583-023-00730-9">A biophysical perspective on the resilience of neuronal excitability across timescales </a> </h4>
-            <a target="_blank" href="https://arxiv.org/abs/1906.00771"> <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_shimon3.jpg" alt="How quantization and depth affect neural representations?" /> </a>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/axonfootprints.png" alt="Slider 4" /> </a>
         </div>
      </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
