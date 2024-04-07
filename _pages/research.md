@@ -278,7 +278,7 @@ permalink: /research/
 
 {% for publi in site.data.publist %}
 
-{% if publi.general == 1 %}
+{% if publi.general_readership == 1 %}
 
 
   {{ publi.title }} <br />
