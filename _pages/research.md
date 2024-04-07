@@ -60,7 +60,7 @@ permalink: /research/
 <h4 style="background-color:WhiteSmoke;">Ion channels and excitability </h4>
 
 
-###### multiple states and scaling of rates
+##### multiple states and scaling of rates
 
 {% for publi in site.data.publist %}
 
@@ -73,7 +73,7 @@ permalink: /research/
 {% endif %}
 {% endfor %}
 
-######  critical fluctuations
+#####  critical fluctuations
 
 {% for publi in site.data.publist %}
 
@@ -88,7 +88,7 @@ permalink: /research/
 
 
 
-######  Parametrization
+#####  Parametrization
 
 {% for publi in site.data.publist %}
 
@@ -101,7 +101,7 @@ permalink: /research/
 {% endif %}
 {% endfor %}
 
-######  Axonal Resilience
+#####  Axonal Resilience
 
 {% for publi in site.data.publist %}
 
@@ -114,7 +114,7 @@ permalink: /research/
 {% endif %}
 {% endfor %}
 
-######  Resilience of neuronal excitability across time scales
+#####  Resilience of neuronal excitability across time scales
 
 
 {% for publi in site.data.publist %}
