@@ -12,7 +12,7 @@ permalink: /team/
 
 If interested, please send your CV and grade transcript so I can know your background before we meet.
 
-Jump to [Current group memebers](#Current-group-members), [alumni](#Alumni).
+Jump to [Current group memebers](#current-group-members), [alumni](#alumni).
 
 ## Current group members
 {% assign number_printed = 0 %}
