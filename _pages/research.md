@@ -231,7 +231,7 @@ permalink: /research/
 
 {: #psychology}
 
-### Psychology ###
+<h3 style="background-color:AliceBlue;">Psychology </h3>
 
 
 #### Book
@@ -276,7 +276,9 @@ permalink: /research/
 
 
 {: #general}
-### General readership
+
+<h3 style="background-color:AliceBlue;">General Readership </h3>
+
 
 
 {% for publi in site.data.publist %}
