@@ -58,7 +58,7 @@ permalink: /research/
 <h3 style="background-color:AliceBlue;">Physiology & Biophysics </h3>
 
 <h4 style="background-color:WhiteSmoke;">Ion channels and excitability </h4>
-#### Ion channels and excitability 
+
 
 ###### multiple states and scaling of rates
 
@@ -129,7 +129,7 @@ permalink: /research/
 {% endfor %}
 
 <h4 style="background-color:WhiteSmoke;">Neural networks </h4>
-#### Neural networks
+
 
 ##### Learning
 
@@ -217,7 +217,6 @@ permalink: /research/
 
 <h4 style="background-color:WhiteSmoke;">Time scales </h4>
 
-#### Time scales
 
 {% for publi in site.data.publist %}
 
