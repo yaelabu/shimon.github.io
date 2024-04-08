@@ -63,6 +63,14 @@
 
 
 
+- name: Gon Buzaglo
+  photo: Gon.jpeg
+  info: MSc Student 
+  email: gonbuzaglo@campus.technion.ac.il
+  number_educ: 2
+  education1: <a href="mailto:gonbuzaglo@campus.technion.ac.il">Email</a>
+  education2: <a href="https://www.buzaglo.me/">Homepage</a>
+
 
 
   
