@@ -22,7 +22,7 @@ I am a professor (MD, PhD) and Pearl Seiden Chair in Sciences, working in the [N
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
+    
      </ol>
 
     <!-- Items -->
